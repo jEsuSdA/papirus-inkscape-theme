@@ -1,0 +1,357 @@
+document-open-recent#file_open_recent">
+document-import#file_import" transform="matrix(1,0,0,0.9999531,0,0.0264064)">
+document-export#file_export" transform="matrix(1,0,0,0.9999593,0,1.023812)">
+document-cleanup#file_vacuum" transform="matrix(0.9969006,0,0,1,0.0464916,2.00012)">
+document-metadata#document_metadata">
+dialog-input-devices#input_devices">
+document-import-ocal" transform="translate(15.02581,647.3622)">
+dialog-templates" transform="translate(15.02581,667.3622)">
+edit-undo-history#edit_undo_history">
+edit-paste-in-place#selection_paste_in_place">
+edit-paste-style#selection_paste_style">
+edit-duplicate#edit_duplicate">
+edit-clone#edit_clone">
+edit-clone-unlink#edit_unlink_clone">
+selection-make-bitmap-copy#bitmap_copy">
+dialog-xml-editor#xml_editor">
+edit-select-all-layers#selection_select_all_in_all_layers">
+edit-select-all#selection_select_all">
+edit-select-none#selection_deselect">
+edit-select-invert#selection_invert">
+dialog-tile-clones#edit_create_tiled_clones">
+edit-select-original">
+zoom-originalzoom_1_to_1">
+zoom-half-size#zoom_half_size">
+zoom-double-size" transform="translate(-21,20)">
+zoom-fit-selection#zoom_select">
+zoom-fit-drawing#zoom_draw">
+zoom-fit-width" transform="translate(-21,100)#zoom_pagewidth">
+zoom-next#zoom_next">
+zoom-previous#zoom_previous">
+show-dialogs#dialog_toggle">
+show-grid#grid">
+show-guides#guides">
+view-fullscreen#fullscreen">
+window-next#window_next">
+window-previous#window_previous">
+window-new#view_new">
+dialog-scripts#scripts">
+dialog-messages#messages">
+dialog-icon-preview#view_icon_preview">
+layer-new#new_layer">
+layer-rename#rename-layer">
+layer-previous#switch_to_layer_above">
+layer-next#switch_to_layer_below">
+selection-move-to-layer-above#move_selection_above">
+selection-move-to-layer-below#selection_move_below">
+layer-raise#raise_layer">
+layer-lower">
+layer-top#layer-to-top">
+layer-bottom#layer_to_bottom">
+layer-delete#delete_layer">
+layers#layers" transform="translate(0,-20)">
+dialog-fill-and-stroke#fill_and_stroke">
+swatches">
+dialog-object-properties#dialog_item_properties">
+object-group#selection_group">
+object-ungroup#selection_ungroup">
+selection-raise#selection_up">
+selection-lower#selection-down">
+selection-top#selection_top">
+selection-bottom#selection_bot">
+object-rotate-right#object_rotate_90_CW">
+object-rotate-left#object_rotate_90_CCW">
+object-flip-horizontal#object_flip_hor">
+object-flip-vertical#object_flip_ver">
+dialog-transform#object_transform">
+dialog-align-and-distribute#object_align">
+dialog-rows-and-columns#grid_arrange">
+color-management#color_management">
+object-to-path#object_tocurve">
+stroke-to-path#stock_tocurve">
+bitmap-trace#selection_trace" transform="translate(0.03125,5e-5)">
+path-union#union">
+path-difference#difference">
+path-intersection#intersection">
+path-exclusion#exclusion">
+path-division#division">
+path-cut#cut-path">
+path-combine#selection-combine">
+path-break-apart#selection_break">
+path-outset#outset_path">
+path-inset#inset_path">
+path-offset-dynamic#dynamic-offset">
+path-offset-linked#linked-offset">
+path-simplify#simplify">
+path-reverse#selection_reverse">
+pixelart-trace" transform="translate(165,867.3622)">
+dialog-text-and-font#object_font">
+text-remove-from-path#remove_from_path">
+text-put-on-path#put_on_path">
+text-flow-into-frameflow_into_frame">
+text-unflow#unflow">
+text-convert-to-regular#convert_to_text">
+text-unkern#remove_manual_kerns" transform="translate(0,20)">
+dialog-filters" transform="translate(195,707.3622)">
+help-keyboard-shortcuts#help-keys">
+help-contents#help_tutorials">
+inkscape-logo#inkscape_options">
+dialog-memory#about_memory">
+path-tweak-shrink">
+path-tweak-grow">
+path-tweak-push">
+path-tweak-roughen">
+path-tweak-repel">
+path-tweak-attract">
+object-tweak-paint">
+object-tweak-jitter-color">
+object-tweak-push">
+object-tweak-attract">
+object-tweak-randomize">
+object-tweak-shrink">
+object-tweak-rotate" style="fill:url(#linearGradient19282)" transform="matrix(1.206069,0,0,1.043228,-194.3522,625.3875)#tweak_rotate_mode">
+object-tweak-duplicate#tweak_moreless_mode">
+object-tweak-blur">
+tool-pointer#draw_select">
+tool-pointer-16px#g25899">
+tool-node-editor#draw_node" transform="translate(0,3)">
+tool-node-editor-16px#g13976" transform="matrix(0.9996703,0,0,0.9975116,0.1048399,4.421879)">
+zoom#draw_zoom">
+zoom-16px">
+draw-rectangle#draw_rect">
+draw-rectangle-16px">
+draw-ellipse">
+draw-ellipse-16px">
+draw-polygon-star">
+draw-polygon-star-16px">
+draw-spiral#draw-arc">
+draw-spiral-16px">
+draw-freehand#draw_freehand" transform="matrix(0.9999983,0,0,0.9920972,-0.0013719,5.877665)">
+draw-freehand-16px" transform="matrix(1,0,0,0.9969194,0,2.339264)">
+draw-path#draw_pen" transform="matrix(1,0,0,1.005373,0,-4.160648)">
+draw-path-16px">
+draw-calligraphic">
+draw-calligraphic-16px" transform="matrix(1.012692,0,0,0.9999339,-4.035935,0.054311)">
+draw-text#draw_text">
+draw-text-16px">
+draw-connector#draw_connector">
+draw-connector-16px">
+color-gradient#color_gradient">
+color-gradient-16px">
+color-picker#draw_dropper">
+color-picker-16px">
+color-fill">
+color-fill-16px">
+draw-eraser#draw_erase">
+draw-eraser-16px">
+tool-spray">
+tool-spray-16px">
+tool-tweak">
+tool-tweak-16px">
+transform-affect-stroke#transfort_stroke">
+transform-affect-rounded-corners#transform_corners">
+transform-affect-gradient#transform_gradient">
+transform-affect-pattern#transform_pattern">
+node-transform">
+node-add#node_insert">
+node-delete#node_delete">
+node-join">
+node-break#node_break">
+node-delete-segment#node_delete_segment">
+node-join-segment#node_join_segment">
+zoom-in#zoom_in">
+zoom-out#zoom_out">
+rectangle-make-corners-sharp#squared_corner">
+draw-ellipse-segment#circle_closed_arc">
+draw-ellipse-arc#circle_open_arc">
+draw-ellipse-whole#reset_circle">
+draw-star">
+draw-polygon">
+draw-use-tilt#use_tilt" transform="translate(1)">
+draw-use-pressure#guse_pressure">
+text_letter_spacing#text_letter_spacing">
+text_line_spacing#text_line_spacing">
+text_word_spacing#text_word_spacing">
+text_vert_kern#text_vert_kern" transform="matrix(0.999454,0,0,1,0.2396728,0)">
+text_horz_kern">
+text_rotation">
+draw-trace-background">
+text_remove_kerns#text_remove_kerns">
+text_superscript">
+text_subscript">
+format-text-direction-vertical#writing_mode_tb" transform="translate(59.99,31.00002)">
+format-text-direction-horizontal#writing_mode_lr" transform="translate(59.99,31.00002)">
+connector-edit#draw_node">
+connector-ignore">
+connector-avoid">
+connector-orthogonal">
+connector-new-connpoint">
+connector-remove-connpoint">
+draw-eraser-delete-objects#delete_object">
+spray-mode-copy#spray-copy-mode">
+spray-mode-clone">
+spray-mode-union#spray-union-mode">
+snap-nodes-cusp#toggle_snap_to_nodes">
+node-type-cusp#node_cusp">
+node-type-smooth">
+node-type-symmetric#node_symmetric">
+node-type-auto-smooth">
+node-segment-curve#node_curve">
+node-segment-line#node_line">
+show-node-handles">
+path-effect-parameter-next">
+show-path-outline#nodes_show_helperpath">
+path-clip-edit">
+path-mask-edit">
+path-mode-bezier#bezier_mode">
+path-mode-spiro#spiro_splines_mode" transform="matrix(0.9989179,0,0,1,0.9944129,0)">
+path-mode-polyline#polylines_mode">
+path-mode-polyline-paraxial#paraxial_lines_mode">
+path-mode-bspline#bspline_mode">
+draw-geometry-16px#g25174">
+draw-geometry#g25164">
+draw-cuboid#draw_3dbox">
+draw-geometry-inactive#all_inactive_old">
+draw-geometry-line-segment#line_segment">
+draw-geometry-circle-from-three-points#circle_3pts">
+draw-geometry-circle-from-radius">
+draw-geometry-line-parallel#parallel">
+draw-geometry-line-perpendicular#perp_bisector">
+draw-geometry-angle-bisector#angle_bisector">
+draw-geometry-mirror#mirror_symmetry">
+show-bounding-box#lpetool_show_bbox">
+draw-geometry-set-bounding-box">
+dialog-geometry">
+draw-geometry-show-measuring-info">
+perspective-parallel#toggle_vp_x">
+toggle_vp_y">
+toggle_vp_z">
+3dbox_three_handles">
+3dbox_four_handles">
+randomize">
+transform-move-horizontal#arrows_hor">
+transform-move-vertical">
+transform-scale-horizontal#transform_scale_hor">
+transform-scale-vertical">
+transform-skew-horizontal#transform_skew_hor">
+transform-skew-vertical" transform="translate(-1)">
+transform-rotate#transform_rotate" transform="translate(-1)">
+object-columns#clonetiler_per_column">
+object-rows" transform="rotate(90,536,751.3622)#g23256">
+clonetiler_per_row_shift">
+clonetiler_per_row_scale">
+clonetiler_per_row_rotation">
+clonetiler_per_row_opacity">
+clonetiler_per_row_color">
+clonetiler_per_column_shift">
+clonetiler_per_column_scale">
+clonetiler_per_column_rotation">
+clonetiler_per_column_opacity">
+clonetiler_per_column_color">
+object-visible#visible">
+object-hidden#hidden">
+object-locked#width_height_lock">
+object-unlocked#lock_unlocked">
+sticky_zoom">
+xml-element-new#add_xml_element_node">
+xml-text-new#add_xml_text_node">
+xml-node-delete#delete_xml_node">
+xml-node-duplicate#duplicate_xml_node">
+xml-attribute-delete#delete_xml_attribute">
+align-horizontal-right-to-anchor#al_left_out">
+align-vertical-bottom-to-anchor#al_top_out">
+align-horizontal-left#al_left_in">
+align-vertical-top#al_top_in">
+align-horizontal-center#al_center_hor">
+align-vertical-center#al_center_ver">
+align-horizontal-right#al_right_in">
+align-vertical-bottom#al_bottom_in">
+align-horizontal-left-to-anchor#al_right_out">
+align-vertical-top-to-anchor#al_bottom_out">
+align-horizontal-baseline#al_baselines_vert">
+align-vertical-baseline#al_baselines_hor">
+distribute-horizontal-left#distribute_left" transform="translate(0,4.153308e-4)">
+distribute-horizontal-center#distribute_hcenter" transform="translate(0,4.153308e-4)">
+distribute-horizontal-right#distribute_right" transform="translate(0,4.153308e-4)">
+distribute-horizontal-gaps#distribute_hdist" transform="translate(0,4.153308e-4)">
+distribute-vertical-bottom#distribute_bottom" transform="translate(0,4.153308e-4)">
+distribute-vertical-center#distribute_vcenter" transform="translate(0,4.153308e-4)">
+distribute-vertical-top#distribute_top" transform="translate(0,4.153308e-4)">
+distribute-vertical-gaps#distribute_vdist" transform="translate(0,4.153308e-4)">
+distribute-horizontal-baseline#distribute_baseline_hor" transform="translate(0,4.153308e-4)">
+distribute-vertical-baseline#distribute_baseline_vert" transform="translate(0,4.153308e-4)">
+distribute-randomize#distribute_randomize" transform="translate(0,4.153308e-4)">
+distribute-unclump#unclump" transform="translate(0,4.153308e-4)">
+distribute-graph#distribute_graph" transform="translate(0,4.153308e-4)">
+distribute-remove-overlaps#g19465" transform="translate(0,4.153308e-4)">
+distribute-graph-directed#directed_graph" transform="translate(0,4.153308e-4)">
+align-horizontal-node#node_valign" transform="translate(0,4.153308e-4)">
+align-vertical-node#node_halign" transform="translate(0,4.153308e-4)">
+distribute-vertical-node#node_vdistribute" transform="translate(0,4.153308e-4)">
+distribute-horizontal-node#node_hdistribute" transform="translate(0,4.153308e-4)">
+object-fill#object_properties" transform="translate(0,4.153308e-4)">
+object-stroke#properties_stroke_paint" transform="translate(0,4.153308e-4)">
+object-stroke-style#properties_stroke" transform="translate(0,4.153308e-4)">
+paint-none" transform="translate(0,4.153308e-4)">
+paint-solid#fill_solid" transform="translate(0,4.153308e-4)">
+paint-gradient-linear#fill_gradient" transform="translate(0,4.153308e-4)">
+paint-gradient-radial#fill_radial" transform="translate(0,4.153308e-4)">
+paint-pattern#fill_pattern" transform="translate(0,4.153308e-4)">
+fill-rule-nonzero#fillrule_nonzero" transform="translate(0,4.153308e-4)">
+fill-rule-even-odd#fillrule_evenodd" transform="translate(0,4.153308e-4)">
+paint-unknown#fill_unset" transform="translate(0,4.153308e-4)">
+no-marker" transform="translate(1147,967.3622)">
+stroke-join-bevel-16px#join_bevel_16px" transform="translate(0,4.000415)">
+stroke-join-miter-16px" transform="translate(4,4.000415)">
+stroke-join-round-16px" transform="translate(7,4.000415)">
+stroke-join-bevel#join_bevel" transform="translate(0,4.153308e-4)">
+stroke-join-miter#join_miter" transform="translate(0,4.153308e-4)">
+stroke-join-round#join_round" transform="translate(0,4.153308e-4)">
+stroke-cap-round#cap_round">
+paint-swatch">
+snap" transform="translate(0,21)">
+snap-bounding-box" transform="translate(0,21)">
+snap-bounding-box-edges" transform="translate(0,21)">
+snap-bounding-box-corners" transform="translate(0,21)">
+snap-bounding-box-center" transform="translate(0,21)">
+snap-bounding-box-midpoints" transform="translate(0,21)">
+snap-nodes" transform="translate(0,21)">
+snap-nodes-path" transform="translate(0,21)">
+snap-nodes-smooth" transform="translate(0,21)">
+snap-nodes-midpoint" transform="translate(0,21)">
+snap-nodes-intersection" transform="translate(0,21)">
+snap-nodes-center" transform="translate(0,21)">
+snap-nodes-rotation-center" transform="translate(0,21)">
+snap-text-baseline" transform="translate(979,527.3622)">
+snap-page#toggle_snap_page_border" transform="translate(30)">
+snap-grid-guide-intersections#toggle_snap_grid_guide_intersections" transform="translate(30)">
+on" transform="translate(454.5112,482.827)">
+off" transform="translate(429.5112,500.3125)">
+symbol-add" transform="translate(498,805.3622)">
+object-symbol">
+symbol-remove" transform="translate(528,805.3622)">
+object-unsymbol">
+pack-less" transform="translate(558,805.3622)">
+pack-more" transform="translate(588,805.3622)">
+symbol-fit" transform="translate(618,805.3622)">
+symbol-smaller" transform="translate(648,805.3622)">
+symbol-bigger" transform="translate(678,805.3622)">
+mesh-gradient" transform="translate(346,898.3622)">
+mesh-gradient-16px" transform="translate(379,898.3622)">
+paint-gradient-mesh" transform="translate(409,898.3622)#fill_mesh">
+paint-gradient-conical" transform="translate(439,898.3622)#fill_conical">
+boundingbox_top_left" transform="translate(738,743.3622)">
+boundingbox_top" transform="translate(758,743.3622)">
+boundingbox_top_right" transform="translate(778,743.3622)">
+boundingbox_left" transform="translate(738,763.3622)">
+boundingbox_right" transform="translate(778,763.3622)">
+boundingbox_bottom_left" transform="translate(738,783.3622)">
+boundingbox_bottom" transform="translate(758,783.3622)">
+boundingbox_bottom_right" transform="translate(778,783.3622)">
+boundingbox_center" transform="translate(758,763.3622)">
+exchange-positions" transform="translate(1230,823.3622)">
+exchange-positions-zorder" transform="translate(1262,823.3622)">
+exchange-positions-clockwise" transform="translate(1294.031,823.3622)">
+stock_icons">
+edit-copy" transform="translate(100,1167.362)">
+dialog-path-effects">
