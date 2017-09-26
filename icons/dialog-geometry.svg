@@ -1,21 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6315300)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-769,-589.36)">
   <rect style="fill:none" width="16" height="16" x="769" y="589.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="16" x="769" y="589.36" rx=".75" ry="0"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="16" x="784" y="589.36" rx=".75" ry="0"/>
-  <rect style="fill:url(#linearGradient19282)" width="16" height="1" x="769" y="589.36" rx="0" ry="1"/>
-  <rect style="fill:url(#linearGradient19282)" width="16" height="1" x="769" y="604.36" rx="0"/>
-  <rect style="fill:url(#linearGradient19282)" width="12" height="1" x="771" y="591.36" rx="0" ry=".6"/>
-  <rect style="display:block;fill:url(#linearGradient19282)" width="10" height="1.044" x="772" y="600.42" rx=".623" ry=".5"/>
-  <path style="display:block;fill:url(#linearGradient19282)" d="M 781,597.36 779,596.36 778,597.36 H 779 L 780,598.36 V 601.36 602.36 L 779.93,604.47 781,602.36 781.06,600.87 Z"/>
-  <path style="display:block;fill:url(#linearGradient19282)" d="M 773.06,597.36 775.01,596.31 776,597.36 H 775.06 L 774.06,598.36 774,601.36 V 603.36 604.36 L 773,602.36 V 600.87 Z"/>
-  <rect style="fill:url(#linearGradient19282)" width="2" height="3" x="776" y="599.36" rx="1" ry="1"/>
-  <path style="fill:url(#linearGradient19282)" d="M 777.06,594.11 C 775.78,594.11 774.75,595.12 774.75,596.36 774.75,597.61 775.78,598.61 777.06,598.61 778.34,598.61 779.37,597.61 779.37,596.36 779.37,595.12 778.34,594.11 777.06,594.11 Z M 777,595.36 C 777.55,595.36 778,595.81 778,596.36 778,596.91 777.55,597.36 777,597.36 776.45,597.36 776,596.91 776,596.36 776,595.81 776.45,595.36 777,595.36 Z"/>
-  <rect style="fill:url(#linearGradient19282)" width="2" height="2" x="776" y="593.36" rx="1" ry="1"/>
+  <rect style="fill:#666666" width="1" height="16" x="769" y="589.36" rx=".75" ry="0"/>
+  <rect style="fill:#666666" width="1" height="16" x="784" y="589.36" rx=".75" ry="0"/>
+  <rect style="fill:#666666" width="16" height="1" x="769" y="589.36" rx="0" ry="1"/>
+  <rect style="fill:#666666" width="16" height="1" x="769" y="604.36" rx="0"/>
+  <rect style="fill:#666666" width="12" height="1" x="771" y="591.36" rx="0" ry=".6"/>
+  <rect style="display:block;fill:#666666" width="10" height="1.044" x="772" y="600.42" rx=".623" ry=".5"/>
+  <path style="display:block;fill:#666666" d="M 781,597.36 779,596.36 778,597.36 H 779 L 780,598.36 V 601.36 602.36 L 779.93,604.47 781,602.36 781.06,600.87 Z"/>
+  <path style="display:block;fill:#666666" d="M 773.06,597.36 775.01,596.31 776,597.36 H 775.06 L 774.06,598.36 774,601.36 V 603.36 604.36 L 773,602.36 V 600.87 Z"/>
+  <rect style="fill:#666666" width="2" height="3" x="776" y="599.36" rx="1" ry="1"/>
+  <path style="fill:#666666" d="M 777.06,594.11 C 775.78,594.11 774.75,595.12 774.75,596.36 774.75,597.61 775.78,598.61 777.06,598.61 778.34,598.61 779.37,597.61 779.37,596.36 779.37,595.12 778.34,594.11 777.06,594.11 Z M 777,595.36 C 777.55,595.36 778,595.81 778,596.36 778,596.91 777.55,597.36 777,597.36 776.45,597.36 776,596.91 776,596.36 776,595.81 776.45,595.36 777,595.36 Z"/>
+  <rect style="fill:#666666" width="2" height="2" x="776" y="593.36" rx="1" ry="1"/>
  </g>
 </svg>

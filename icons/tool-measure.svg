@@ -1,19 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="24" height="24" version="1.1" viewBox="0 0 24 24">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6315900)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
  <g transform="translate(-346,-929.36)">
   <rect style="fill:none" width="24" height="24" x="346" y="929.36"/>
-  <path style="fill:url(#linearGradient19282)" d="M 352.06,931.43 V 952.43 H 363.98 V 935.31 C 363.98,933.43 362.86,931.43 360.29,931.43 Z M 354.06,933.43 H 360.18 C 361.49,933.43 361.99,934.25 361.99,935.37 V 950.4 H 354.06 Z"/>
-  <rect style="fill:url(#linearGradient19282)" width="4.25" height="1" x="353.61" y="934.37" rx=".5" ry=".5"/>
-  <rect style="fill:url(#linearGradient19282)" width="4.25" height="1" x="353.61" y="942.37" rx=".5" ry=".5"/>
-  <rect style="fill:url(#linearGradient19282)" width="2.188" height="1" x="353.67" y="948.37" rx=".5" ry=".5"/>
-  <rect style="fill:url(#linearGradient19282)" width="2.188" height="1" x="353.67" y="946.37" rx=".5" ry=".5"/>
-  <rect style="fill:url(#linearGradient19282)" width="2.188" height="1" x="353.67" y="944.37" rx=".5" ry=".5"/>
-  <rect style="fill:url(#linearGradient19282)" width="2.188" height="1" x="353.67" y="940.37" rx=".5" ry=".5"/>
-  <rect style="fill:url(#linearGradient19282)" width="2.188" height="1" x="353.67" y="938.37" rx=".5" ry=".5"/>
-  <rect style="fill:url(#linearGradient19282)" width="2.188" height="1" x="353.67" y="936.37" rx=".5" ry=".5"/>
+  <path style="fill:#666666" d="M 352.06,931.43 V 952.43 H 363.98 V 935.31 C 363.98,933.43 362.86,931.43 360.29,931.43 Z M 354.06,933.43 H 360.18 C 361.49,933.43 361.99,934.25 361.99,935.37 V 950.4 H 354.06 Z"/>
+  <rect style="fill:#666666" width="4.25" height="1" x="353.61" y="934.37" rx=".5" ry=".5"/>
+  <rect style="fill:#666666" width="4.25" height="1" x="353.61" y="942.37" rx=".5" ry=".5"/>
+  <rect style="fill:#666666" width="2.188" height="1" x="353.67" y="948.37" rx=".5" ry=".5"/>
+  <rect style="fill:#666666" width="2.188" height="1" x="353.67" y="946.37" rx=".5" ry=".5"/>
+  <rect style="fill:#666666" width="2.188" height="1" x="353.67" y="944.37" rx=".5" ry=".5"/>
+  <rect style="fill:#666666" width="2.188" height="1" x="353.67" y="940.37" rx=".5" ry=".5"/>
+  <rect style="fill:#666666" width="2.188" height="1" x="353.67" y="938.37" rx=".5" ry=".5"/>
+  <rect style="fill:#666666" width="2.188" height="1" x="353.67" y="936.37" rx=".5" ry=".5"/>
  </g>
 </svg>

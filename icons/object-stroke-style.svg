@@ -1,16 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink" width="12.002" height="12" version="1.1" viewBox="0 0 12 12">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6316300)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12.002" height="12" version="1.1" viewBox="0 0 12 12">
  <g transform="translate(-1120,-903.36)">
   <rect style="fill:none" width="12" height="12" x="1120" y="903.36"/>
-  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 1120,905.36 H 1128 V 903.36 L 1132,905.86 1128,908.36 V 906.36 H 1120 Z"/>
-  <path style="fill:none;stroke:url(#linearGradient19282);stroke-linecap:square" d="M 1120.5,910.86 H 1121.5"/>
-  <path id="use10533" style="fill:none;stroke:url(#linearGradient19282);stroke-linecap:square" d="M 1126.5,910.86 H 1127.5"/>
-  <use style="fill:none;stroke:url(#linearGradient19282);stroke-width:1.35559" width="1250" height="1250" x="0" y="0" transform="translate(3)" xlink:href="#use10533"/>
-  <path style="fill:none;stroke:url(#linearGradient19282);stroke-width:1px;stroke-linecap:square" d="M 1120.5,914.86 H 1131.5"/>
-  <use style="fill:none;stroke:url(#linearGradient19282);stroke-width:1.35559" width="1250" height="1250" x="0" y="0" transform="translate(3)" xlink:href="#path10529"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 1120,905.36 H 1128 V 903.36 L 1132,905.86 1128,908.36 V 906.36 H 1120 Z"/>
+  <path style="fill:none;stroke:#666666;stroke-linecap:square" d="M 1120.5,910.86 H 1121.5"/>
+  <path id="use10533" style="fill:none;stroke:#666666;stroke-linecap:square" d="M 1126.5,910.86 H 1127.5"/>
+  <use style="fill:none;stroke:#666666;stroke-width:1.35559" width="1250" height="1250" x="0" y="0" transform="translate(3)" xlink:href="#use10533"/>
+  <path style="fill:none;stroke:#666666;stroke-width:1px;stroke-linecap:square" d="M 1120.5,914.86 H 1131.5"/>
+  <use style="fill:none;stroke:#666666;stroke-width:1.35559" width="1250" height="1250" x="0" y="0" transform="translate(3)" xlink:href="#path10529"/>
  </g>
 </svg>

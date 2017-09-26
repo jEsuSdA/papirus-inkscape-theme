@@ -1,17 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.3363e8,-9472100)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-74.997,-887.36)">
   <rect style="fill:none" width="15.976" height="16" x="75" y="887.36"/>
-  <path style="fill:url(#linearGradient19282)" d="M 77.018,889.36 H 89 V 891.36 H 77.018 Z"/>
-  <rect style="fill:url(#linearGradient19282)" width=".999" height="16" x="75.02" y="887.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="15.976" height="1" x="75.02" y="887.36"/>
-  <rect style="fill:url(#linearGradient19282)" width=".999" height="16" x="90" y="887.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="15.976" height="1" x="75.02" y="902.36"/>
-  <path style="fill:url(#linearGradient19282)" d="M 83,893.36 C 79.686,893.36 79,895.36 77,896.86 79,898.36 79.686,900.36 83,900.36 86.314,900.36 87,898.36 89,896.86 87,895.36 86.314,893.36 83,893.36 Z M 83,894.36 C 84.657,894.36 86,895.48 86,896.86 86,898.24 84.657,899.36 83,899.36 81.343,899.36 80,898.24 80,896.86 80,895.48 81.343,894.36 83,894.36 Z"/>
-  <ellipse style="fill:url(#linearGradient19282)" cx="83.035" cy="896.86" rx="1.219" ry="1.5"/>
+  <path style="fill:#666666" d="M 77.018,889.36 H 89 V 891.36 H 77.018 Z"/>
+  <rect style="fill:#666666" width=".999" height="16" x="75.02" y="887.36"/>
+  <rect style="fill:#666666" width="15.976" height="1" x="75.02" y="887.36"/>
+  <rect style="fill:#666666" width=".999" height="16" x="90" y="887.36"/>
+  <rect style="fill:#666666" width="15.976" height="1" x="75.02" y="902.36"/>
+  <path style="fill:#666666" d="M 83,893.36 C 79.686,893.36 79,895.36 77,896.86 79,898.36 79.686,900.36 83,900.36 86.314,900.36 87,898.36 89,896.86 87,895.36 86.314,893.36 83,893.36 Z M 83,894.36 C 84.657,894.36 86,895.48 86,896.86 86,898.24 84.657,899.36 83,899.36 81.343,899.36 80,898.24 80,896.86 80,895.48 81.343,894.36 83,894.36 Z"/>
+  <ellipse style="fill:#666666" cx="83.035" cy="896.86" rx="1.219" ry="1.5"/>
  </g>
 </svg>

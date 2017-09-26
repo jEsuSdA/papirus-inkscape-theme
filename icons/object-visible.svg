@@ -1,20 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16.507" version="1.1" viewBox="0 0 16 16.51">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6316300)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16.507" version="1.1" viewBox="0 0 16 16.51">
  <g transform="translate(-165,-960.85)">
   <rect style="fill:none" width="16" height="16" x="165" y="961.36"/>
-  <path style="fill:url(#linearGradient19282)" d="M 173,966.36 C 171.34,966.36 170,967.71 170,969.36 170,971.02 171.34,972.36 173,972.36 174.66,972.36 176,971.02 176,969.36 176,967.71 174.66,966.36 173,966.36 Z M 172.51,967.19 C 172.88,967.19 173.19,967.5 173.19,967.89 173.19,968.27 172.88,968.6 172.51,968.6 172.13,968.6 171.82,968.27 171.82,967.89 171.82,967.5 172.13,967.19 172.51,967.19 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 173,963.36 C 168.58,963.36 165,969.36 165,969.36 165,969.36 168.58,975.36 173,975.36 177.42,975.36 181,969.36 181,969.36 181,969.36 177.42,963.36 173,963.36 Z M 173,965.36 C 176.87,965.36 179,969.36 179,969.36 179,969.36 176.87,973.36 173,973.36 169.13,973.36 167,969.36 167,969.36 167,969.36 169.13,965.36 173,965.36 Z"/>
-  <path style="fill:none;stroke:url(#linearGradient19282);stroke-linecap:round" d="M 167,967.3 166,966.3"/>
-  <path style="fill:none;stroke:url(#linearGradient19282);stroke-linecap:round" d="M 179,967.3 180,966.3"/>
-  <path style="fill:none;stroke:url(#linearGradient19282);stroke-linecap:round" d="M 169,966.3 167,964.3"/>
-  <path style="fill:none;stroke:url(#linearGradient19282);stroke-linecap:round" d="M 170.37,964.86 169,962.49"/>
-  <path style="fill:none;stroke:url(#linearGradient19282);stroke-linecap:round" d="M 172.44,964.36 171.75,961.36"/>
-  <path style="fill:none;stroke:url(#linearGradient19282);stroke-linecap:round" d="M 177.44,966.3 179,964.3"/>
-  <path style="fill:none;stroke:url(#linearGradient19282);stroke-linecap:round" d="M 176.06,964.86 177.39,962.71"/>
-  <path style="fill:none;stroke:url(#linearGradient19282);stroke-linecap:round" d="M 174,964.36 174.86,961.36"/>
+  <path style="fill:#666666" d="M 173,966.36 C 171.34,966.36 170,967.71 170,969.36 170,971.02 171.34,972.36 173,972.36 174.66,972.36 176,971.02 176,969.36 176,967.71 174.66,966.36 173,966.36 Z M 172.51,967.19 C 172.88,967.19 173.19,967.5 173.19,967.89 173.19,968.27 172.88,968.6 172.51,968.6 172.13,968.6 171.82,968.27 171.82,967.89 171.82,967.5 172.13,967.19 172.51,967.19 Z"/>
+  <path style="fill:#666666" d="M 173,963.36 C 168.58,963.36 165,969.36 165,969.36 165,969.36 168.58,975.36 173,975.36 177.42,975.36 181,969.36 181,969.36 181,969.36 177.42,963.36 173,963.36 Z M 173,965.36 C 176.87,965.36 179,969.36 179,969.36 179,969.36 176.87,973.36 173,973.36 169.13,973.36 167,969.36 167,969.36 167,969.36 169.13,965.36 173,965.36 Z"/>
+  <path style="fill:none;stroke:#666666;stroke-linecap:round" d="M 167,967.3 166,966.3"/>
+  <path style="fill:none;stroke:#666666;stroke-linecap:round" d="M 179,967.3 180,966.3"/>
+  <path style="fill:none;stroke:#666666;stroke-linecap:round" d="M 169,966.3 167,964.3"/>
+  <path style="fill:none;stroke:#666666;stroke-linecap:round" d="M 170.37,964.86 169,962.49"/>
+  <path style="fill:none;stroke:#666666;stroke-linecap:round" d="M 172.44,964.36 171.75,961.36"/>
+  <path style="fill:none;stroke:#666666;stroke-linecap:round" d="M 177.44,966.3 179,964.3"/>
+  <path style="fill:none;stroke:#666666;stroke-linecap:round" d="M 176.06,964.86 177.39,962.71"/>
+  <path style="fill:none;stroke:#666666;stroke-linecap:round" d="M 174,964.36 174.86,961.36"/>
  </g>
 </svg>

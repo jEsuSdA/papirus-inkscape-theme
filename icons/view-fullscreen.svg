@@ -1,19 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6320500)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-75,-767.36)">
   <rect style="fill:none" width="16" height="16" x="75" y="767.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="5" x="75" y="767.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="5" height="1" x="75" y="767.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="5" x="-91" y="767.36" transform="scale(-1,1)"/>
-  <rect style="fill:url(#linearGradient19282)" width="5" height="1" x="-91" y="767.36" transform="scale(-1,1)"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="5" x="-91" y="-783.36" transform="scale(-1)"/>
-  <rect style="fill:url(#linearGradient19282)" width="5" height="1" x="-91" y="-783.36" transform="scale(-1)"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="5" x="75" y="-783.3" transform="scale(1,-1)"/>
-  <rect style="fill:url(#linearGradient19282)" width="5" height="1" x="75" y="-783.34" transform="scale(1,-1)"/>
-  <rect style="fill:url(#linearGradient19282)" width="10" height="8" x="78" y="771.36"/>
+  <rect style="fill:#666666" width="1" height="5" x="75" y="767.36"/>
+  <rect style="fill:#666666" width="5" height="1" x="75" y="767.36"/>
+  <rect style="fill:#666666" width="1" height="5" x="-91" y="767.36" transform="scale(-1,1)"/>
+  <rect style="fill:#666666" width="5" height="1" x="-91" y="767.36" transform="scale(-1,1)"/>
+  <rect style="fill:#666666" width="1" height="5" x="-91" y="-783.36" transform="scale(-1)"/>
+  <rect style="fill:#666666" width="5" height="1" x="-91" y="-783.36" transform="scale(-1)"/>
+  <rect style="fill:#666666" width="1" height="5" x="75" y="-783.3" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="5" height="1" x="75" y="-783.34" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="10" height="8" x="78" y="771.36"/>
  </g>
 </svg>

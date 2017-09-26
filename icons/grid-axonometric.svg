@@ -1,19 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6316300)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-225,-931.36)">
   <rect style="fill:none" width="16" height="16" x="225" y="931.36"/>
-  <path style="fill:url(#linearGradient19282)" d="M 227.01,932.36 V 946.36 H 228 V 932.36 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 236.99,932.36 V 946.36 H 237.98 V 932.36 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 232.02,931.36 V 947.36 H 233.01 V 931.36 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 225.55,934.36 225,935.28 240.48,944.36 241,943.45 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 225.52,940.36 225,941.24 236,947.36 236.52,946.52 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 230.45,931.44 229.94,932.3 240.49,938.36 241,937.47 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 234.47,931.36 225,936.5 225.53,937.36 235,932.23 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 240.48,933.36 225,942.45 225.52,943.36 241,934.28 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 240.52,939.36 229,946.46 229.48,947.36 241,940.27 Z"/>
+  <path style="fill:#666666" d="M 227.01,932.36 V 946.36 H 228 V 932.36 Z"/>
+  <path style="fill:#666666" d="M 236.99,932.36 V 946.36 H 237.98 V 932.36 Z"/>
+  <path style="fill:#666666" d="M 232.02,931.36 V 947.36 H 233.01 V 931.36 Z"/>
+  <path style="fill:#666666" d="M 225.55,934.36 225,935.28 240.48,944.36 241,943.45 Z"/>
+  <path style="fill:#666666" d="M 225.52,940.36 225,941.24 236,947.36 236.52,946.52 Z"/>
+  <path style="fill:#666666" d="M 230.45,931.44 229.94,932.3 240.49,938.36 241,937.47 Z"/>
+  <path style="fill:#666666" d="M 234.47,931.36 225,936.5 225.53,937.36 235,932.23 Z"/>
+  <path style="fill:#666666" d="M 240.48,933.36 225,942.45 225.52,943.36 241,934.28 Z"/>
+  <path style="fill:#666666" d="M 240.52,939.36 229,946.46 229.48,947.36 241,940.27 Z"/>
  </g>
 </svg>

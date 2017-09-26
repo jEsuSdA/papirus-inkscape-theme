@@ -1,26 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6310300)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-195,-627.36)">
   <rect style="opacity:0.3;fill:none" width="16" height="16" x="195" y="627.36"/>
-  <path style="fill:url(#linearGradient19282)" d="M 197,629.36 V 631.36 L 198,630.36 H 199 V 633.36 L 198,634.36 H 201 L 200,633.36 V 630.36 H 201 L 202,631.36 V 629.36 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 195,627.36 V 636.36 H 204 V 627.36 Z M 196,628.36 H 203 V 635.36 H 196 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 204,636.36 V 638.36 L 205,637.36 H 206 V 640.36 L 205,641.36 H 208 L 207,640.36 V 637.36 H 208 L 209,638.36 V 636.36 Z"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="206" y="634.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="208" y="634.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="210" y="634.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="210" y="636.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="210" y="638.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="210" y="640.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="210" y="642.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="208" y="642.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="206" y="642.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="204" y="642.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="202" y="642.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="202" y="640.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="202" y="638.36"/>
+  <path style="fill:#666666" d="M 197,629.36 V 631.36 L 198,630.36 H 199 V 633.36 L 198,634.36 H 201 L 200,633.36 V 630.36 H 201 L 202,631.36 V 629.36 Z"/>
+  <path style="fill:#666666" d="M 195,627.36 V 636.36 H 204 V 627.36 Z M 196,628.36 H 203 V 635.36 H 196 Z"/>
+  <path style="fill:#666666" d="M 204,636.36 V 638.36 L 205,637.36 H 206 V 640.36 L 205,641.36 H 208 L 207,640.36 V 637.36 H 208 L 209,638.36 V 636.36 Z"/>
+  <rect style="fill:#666666" width="1" height="1" x="206" y="634.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="208" y="634.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="210" y="634.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="210" y="636.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="210" y="638.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="210" y="640.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="210" y="642.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="208" y="642.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="206" y="642.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="204" y="642.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="202" y="642.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="202" y="640.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="202" y="638.36"/>
  </g>
 </svg>

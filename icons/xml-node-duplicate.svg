@@ -1,20 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="24" height="24" version="1.1" viewBox="0 0 24 24">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.2663e8,-5811200)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
  <g transform="translate(-1158,-557.36)">
   <rect style="fill:none" width="24" height="24" x="1158" y="557.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="18" x="1164" y="563.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="17" height="1" x="1165" y="563.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="18" height="1" x="1164" y="580.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="18" x="1181" y="563.36"/>
-  <path style="fill:url(#linearGradient19282)" d="M 1173,573.36 V 581.36 H 1181 V 573.36 Z M 1176,574.36 H 1178 V 576.36 H 1180 V 578.36 H 1178 V 580.36 H 1176 V 578.36 H 1174 V 576.36 H 1176 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 1171.3,565.38 1171,565.73 1167.5,568.49 1167.1,568.8 1167.5,569.12 1171,571.88 1171.3,572.22 1172.2,571.56 1171.7,571.25 1168.7,568.8 1171.7,566.36 1172.2,566.04 Z M 1174.8,565.38 1174,566.04 1174.4,566.36 1177.4,568.8 1174.4,571.25 1174,571.56 1174.8,572.22 1175.2,571.88 1178.6,569.12 1179,568.8 1178.6,568.49 1175.2,565.73 Z"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="18" x="1158" y="557.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="17" height="1" x="1159" y="557.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="6" height="1" x="1158" y="574.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="6" x="1175" y="557.36"/>
+  <rect style="fill:#666666" width="1" height="18" x="1164" y="563.36"/>
+  <rect style="fill:#666666" width="17" height="1" x="1165" y="563.36"/>
+  <rect style="fill:#666666" width="18" height="1" x="1164" y="580.36"/>
+  <rect style="fill:#666666" width="1" height="18" x="1181" y="563.36"/>
+  <path style="fill:#666666" d="M 1173,573.36 V 581.36 H 1181 V 573.36 Z M 1176,574.36 H 1178 V 576.36 H 1180 V 578.36 H 1178 V 580.36 H 1176 V 578.36 H 1174 V 576.36 H 1176 Z"/>
+  <path style="fill:#666666" d="M 1171.3,565.38 1171,565.73 1167.5,568.49 1167.1,568.8 1167.5,569.12 1171,571.88 1171.3,572.22 1172.2,571.56 1171.7,571.25 1168.7,568.8 1171.7,566.36 1172.2,566.04 Z M 1174.8,565.38 1174,566.04 1174.4,566.36 1177.4,568.8 1174.4,571.25 1174,571.56 1174.8,572.22 1175.2,571.88 1178.6,569.12 1179,568.8 1178.6,568.49 1175.2,565.73 Z"/>
+  <rect style="fill:#666666" width="1" height="18" x="1158" y="557.36"/>
+  <rect style="fill:#666666" width="17" height="1" x="1159" y="557.36"/>
+  <rect style="fill:#666666" width="6" height="1" x="1158" y="574.36"/>
+  <rect style="fill:#666666" width="1" height="6" x="1175" y="557.36"/>
  </g>
 </svg>

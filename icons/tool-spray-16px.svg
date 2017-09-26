@@ -1,23 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1052900,-57493)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-317,-1022.4)">
   <path style="fill:none" d="M 317,1022.4 H 333 V 1038.4 H 317 Z"/>
-  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 329,1027.4 V 1026.2 C 329,1025.1 327,1025.1 327,1026.2 V 1027.4 Z"/>
-  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 332,1032.4 331,1031.4 H 325 L 324,1032.4 V 1036.4 C 324,1036.4 326,1038.4 332,1038.4 Z"/>
-  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 331,1030.4 330,1028.4 H 326 L 325,1030.4 Z"/>
-  <circle style="fill:url(#linearGradient19282)" cx="324.9" cy="1027.1" r=".269"/>
-  <circle style="fill:url(#linearGradient19282)" cx="324" cy="1028.4" r=".392"/>
-  <ellipse style="fill:url(#linearGradient19282)" cx="323.93" cy="1025.5" rx=".414" ry=".392"/>
-  <circle style="fill:url(#linearGradient19282)" cx="322.46" cy="1029" r=".588"/>
-  <circle style="fill:url(#linearGradient19282)" cx="322.39" cy="1024.9" r=".588"/>
-  <circle style="fill:url(#linearGradient19282)" cx="321.55" cy="1027.3" r=".588"/>
-  <ellipse style="fill:url(#linearGradient19282)" cx="319.91" cy="1030.4" rx=".993" ry=".99"/>
-  <ellipse style="fill:url(#linearGradient19282)" cx="320.14" cy="1024.4" rx="1" ry=".988"/>
-  <ellipse style="fill:url(#linearGradient19282)" cx="318.99" cy="1027.3" rx="1" ry="1.048"/>
-  <circle style="fill:url(#linearGradient19282)" cx="323.54" cy="1027.2" r=".5"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 329,1027.4 V 1026.2 C 329,1025.1 327,1025.1 327,1026.2 V 1027.4 Z"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 332,1032.4 331,1031.4 H 325 L 324,1032.4 V 1036.4 C 324,1036.4 326,1038.4 332,1038.4 Z"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 331,1030.4 330,1028.4 H 326 L 325,1030.4 Z"/>
+  <circle style="fill:#666666" cx="324.9" cy="1027.1" r=".269"/>
+  <circle style="fill:#666666" cx="324" cy="1028.4" r=".392"/>
+  <ellipse style="fill:#666666" cx="323.93" cy="1025.5" rx=".414" ry=".392"/>
+  <circle style="fill:#666666" cx="322.46" cy="1029" r=".588"/>
+  <circle style="fill:#666666" cx="322.39" cy="1024.9" r=".588"/>
+  <circle style="fill:#666666" cx="321.55" cy="1027.3" r=".588"/>
+  <ellipse style="fill:#666666" cx="319.91" cy="1030.4" rx=".993" ry=".99"/>
+  <ellipse style="fill:#666666" cx="320.14" cy="1024.4" rx="1" ry=".988"/>
+  <ellipse style="fill:#666666" cx="318.99" cy="1027.3" rx="1" ry="1.048"/>
+  <circle style="fill:#666666" cx="323.54" cy="1027.2" r=".5"/>
  </g>
 </svg>

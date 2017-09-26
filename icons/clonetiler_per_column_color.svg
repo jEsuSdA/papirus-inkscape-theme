@@ -1,15 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16.015" version="1.1" viewBox="0 0 16 16.02">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-96610000,-5632000)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16.015" version="1.1" viewBox="0 0 16 16.02">
  <g transform="translate(-678,-772.36)">
   <rect style="fill:none" width="16" height="16" x="772.36" y="-694" rx=".47" ry="0" transform="rotate(90)"/>
-  <rect style="fill:url(#linearGradient19282)" width="2" height="12" x="-682" y="-786.36" rx="0" transform="scale(-1)"/>
-  <path style="fill:url(#linearGradient19282)" d="M 684,774.36 H 686 V 784.36 L 684,786.36 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 688,774.36 H 690 V 780.36 L 688,782.36 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 685,787.51 C 687.72,787.51 687.45,784.54 688.77,783.72 690.3,782.76 691.64,783.95 691.91,784.92 692.25,786.15 691.61,787.16 690.77,787.7 689.16,788.75 685.26,788.51 685,787.51 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 694,777.77 C 692.99,778.83 691.91,780.11 690.25,782.39 691.25,782.43 692.12,783.08 692.56,784.02 693.09,783.44 693.57,782.88 694,782.36 Z"/>
+  <rect style="fill:#666666" width="2" height="12" x="-682" y="-786.36" rx="0" transform="scale(-1)"/>
+  <path style="fill:#666666" d="M 684,774.36 H 686 V 784.36 L 684,786.36 Z"/>
+  <path style="fill:#666666" d="M 688,774.36 H 690 V 780.36 L 688,782.36 Z"/>
+  <path style="fill:#666666" d="M 685,787.51 C 687.72,787.51 687.45,784.54 688.77,783.72 690.3,782.76 691.64,783.95 691.91,784.92 692.25,786.15 691.61,787.16 690.77,787.7 689.16,788.75 685.26,788.51 685,787.51 Z"/>
+  <path style="fill:#666666" d="M 694,777.77 C 692.99,778.83 691.91,780.11 690.25,782.39 691.25,782.43 692.12,783.08 692.56,784.02 693.09,783.44 693.57,782.88 694,782.36 Z"/>
  </g>
 </svg>

@@ -1,12 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="20" height="20" version="1.1" viewBox="0 0 20 20">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6315300)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" version="1.1" viewBox="0 0 20 20">
  <g transform="translate(-1214,-929.36)">
   <rect style="fill:none" width="20" height="20" x="1214" y="929.36"/>
-  <path style="fill:url(#linearGradient19282)" d="M 1215,930.36 V 948.36 H 1233 V 930.36 Z M 1216,931.36 H 1232 V 947.36 H 1216 Z"/>
-  <rect style="fill:url(#linearGradient19282)" width="14" height="14" x="1217" y="932.36"/>
+  <path style="fill:#666666" d="M 1215,930.36 V 948.36 H 1233 V 930.36 Z M 1216,931.36 H 1232 V 947.36 H 1216 Z"/>
+  <rect style="fill:#666666" width="14" height="14" x="1217" y="932.36"/>
  </g>
 </svg>

@@ -1,17 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="24" height="24" version="1.1" viewBox="0 0 24 24">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6558500)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
  <g transform="translate(-285,-774.35)">
-  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 299.31,788.92 297.73,793.45 C 297.31,794.68 299.03,795.34 299.46,794.07 L 301.22,789.56 Z"/>
-  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 298.31,782.83 299.1,784.01 305.02,786.45 306.58,785.94 308.57,780.4 C 306.07,780.4 308.07,774.37 301.57,774.37 Z"/>
-  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 299,785.44 298.3,787.45 303.3,789.36 304,787.45 Z"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 299.31,788.92 297.73,793.45 C 297.31,794.68 299.03,795.34 299.46,794.07 L 301.22,789.56 Z"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 298.31,782.83 299.1,784.01 305.02,786.45 306.58,785.94 308.57,780.4 C 306.07,780.4 308.07,774.37 301.57,774.37 Z"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 299,785.44 298.3,787.45 303.3,789.36 304,787.45 Z"/>
   <rect style="fill:none" width="24" height="23.992" x="285" y="774.38"/>
-  <path style="fill:none;stroke:url(#linearGradient19282);stroke-width:0.96096" d="M 289.16,794.01 C 300.82,792.06 287.48,775.87 287.48,775.87 H 298.52"/>
-  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 286,793.48 H 290 V 797.51 H 286 Z"/>
-  <path style="fill:none;stroke:url(#linearGradient19282);stroke-width:1.12034" d="M 287,796.02 H 296"/>
-  <rect style="fill:url(#linearGradient19282)" width="4" height="4.022" x="286" y="774.38"/>
+  <path style="fill:none;stroke:#666666;stroke-width:0.96096" d="M 289.16,794.01 C 300.82,792.06 287.48,775.87 287.48,775.87 H 298.52"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 286,793.48 H 290 V 797.51 H 286 Z"/>
+  <path style="fill:none;stroke:#666666;stroke-width:1.12034" d="M 287,796.02 H 296"/>
+  <rect style="fill:#666666" width="4" height="4.022" x="286" y="774.38"/>
  </g>
 </svg>

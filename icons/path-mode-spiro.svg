@@ -1,12 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16.001" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1034e8,-6316300)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16.001" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-919,-557.36)">
   <rect style="fill:none" width="15.983" height="16" x="919" y="557.36"/>
-  <path style="fill:none;stroke:url(#linearGradient19282);stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 923.7,568.42 C 921.78,568.16 920.17,566.36 920.02,564.29 919.81,562.22 922.29,560.03 924.13,559.39 925.94,558.68 926.73,560.22 927.74,561.99 928.38,563.02 928.18,563.67 928.02,564.87 927.86,566.08 928.72,567.4 929.73,568.02 930.99,568.88 932.96,568.35 933.65,566.93 934.41,565.55 934.25,563.97 932.9,563.29">
+  <path style="fill:none;stroke:#666666;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 923.7,568.42 C 921.78,568.16 920.17,566.36 920.02,564.29 919.81,562.22 922.29,560.03 924.13,559.39 925.94,558.68 926.73,560.22 927.74,561.99 928.38,563.02 928.18,563.67 928.02,564.87 927.86,566.08 928.72,567.4 929.73,568.02 930.99,568.88 932.96,568.35 933.65,566.93 934.41,565.55 934.25,563.97 932.9,563.29">
    <desc>
     inkscape:path-effect=&quot;#path-effect36695&quot; striped for faster load
    </desc>

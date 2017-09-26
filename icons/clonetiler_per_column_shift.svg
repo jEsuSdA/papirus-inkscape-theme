@@ -1,13 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6316900)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-558,-772.36)">
   <rect style="fill:none" width="16" height="16" x="558" y="-788.36" rx=".47" ry="0" transform="scale(1,-1)"/>
-  <rect style="fill:url(#linearGradient19282)" width="2" height="12" x="561" y="-784.36" rx="0" transform="scale(1,-1)"/>
-  <rect style="fill:url(#linearGradient19282)" width="2" height="12" x="565" y="-786.36" rx="0" transform="scale(1,-1)"/>
-  <rect style="fill:url(#linearGradient19282)" width="2" height="12" x="569" y="-788.36" rx="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="2" height="12" x="561" y="-784.36" rx="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="2" height="12" x="565" y="-786.36" rx="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="2" height="12" x="569" y="-788.36" rx="0" transform="scale(1,-1)"/>
  </g>
 </svg>

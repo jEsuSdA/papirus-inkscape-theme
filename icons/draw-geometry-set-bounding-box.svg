@@ -1,32 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6315800)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-739,-589.36)">
   <rect style="fill:none" width="16" height="16" x="739" y="589.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="742" y="591.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="742" y="593.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="742" y="595.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="742" y="597.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="742" y="599.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="742" y="601.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="742" y="603.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="744" y="603.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="746" y="603.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="748" y="603.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="750" y="603.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="750" y="601.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="750" y="599.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="750" y="597.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="750" y="595.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="750" y="593.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="750" y="591.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="748" y="591.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="746" y="591.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="744" y="591.36"/>
-  <path style="fill:url(#linearGradient19282)" d="M 742,597.36 739,594.36 V 600.36 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 751,597.36 754,594.36 V 600.36 Z"/>
+  <rect style="fill:#666666" width="1" height="1" x="742" y="591.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="742" y="593.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="742" y="595.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="742" y="597.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="742" y="599.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="742" y="601.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="742" y="603.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="744" y="603.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="746" y="603.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="748" y="603.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="750" y="603.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="750" y="601.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="750" y="599.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="750" y="597.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="750" y="595.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="750" y="593.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="750" y="591.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="748" y="591.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="746" y="591.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="744" y="591.36"/>
+  <path style="fill:#666666" d="M 742,597.36 739,594.36 V 600.36 Z"/>
+  <path style="fill:#666666" d="M 751,597.36 754,594.36 V 600.36 Z"/>
  </g>
 </svg>

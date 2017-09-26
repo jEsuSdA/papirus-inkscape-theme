@@ -1,17 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.0966e8,-6315300)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-44.976,-667.36)">
   <rect style="fill:none" width="15.976" height="16" x="44.98" y="667.36"/>
-  <path style="fill:url(#linearGradient19282)" d="M 46.997,669.36 H 58.979 V 671.36 H 46.997 Z"/>
-  <rect style="fill:url(#linearGradient19282)" width=".999" height="16" x="45" y="667.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="15.976" height="1" x="45" y="667.36"/>
-  <rect style="fill:url(#linearGradient19282)" width=".999" height="16" x="59.98" y="667.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="15.976" height="1" x="45" y="682.36"/>
-  <path style="fill:none;stroke:url(#linearGradient19282);stroke-width:1px" d="M 52,674.36 48,677.36 52,680.36"/>
-  <path style="fill:none;stroke:url(#linearGradient19282);stroke-width:1px" d="M 54,674.36 58,677.36 54,680.36"/>
+  <path style="fill:#666666" d="M 46.997,669.36 H 58.979 V 671.36 H 46.997 Z"/>
+  <rect style="fill:#666666" width=".999" height="16" x="45" y="667.36"/>
+  <rect style="fill:#666666" width="15.976" height="1" x="45" y="667.36"/>
+  <rect style="fill:#666666" width=".999" height="16" x="59.98" y="667.36"/>
+  <rect style="fill:#666666" width="15.976" height="1" x="45" y="682.36"/>
+  <path style="fill:none;stroke:#666666;stroke-width:1px" d="M 52,674.36 48,677.36 52,680.36"/>
+  <path style="fill:none;stroke:#666666;stroke-width:1px" d="M 54,674.36 58,677.36 54,680.36"/>
  </g>
 </svg>

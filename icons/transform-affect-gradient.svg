@@ -1,27 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6316300)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-408,-527.36)">
   <rect style="opacity:0.3;fill:none" width="16" height="16" x="408" y="527.36"/>
-  <path style="fill:url(#linearGradient19282)" d="M 410,528.37 V 529.37 H 410.5 421 V 535.86 536.36 H 422 V 535.86 528.87 528.37 H 421.5 410.5 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 410,535.36 V 536.36 H 410.5 417 V 536.86 537.36 H 418 V 536.86 535.86 535.36 H 417.5 410.5 Z"/>
-  <rect style="opacity:0.3;fill:url(#linearGradient19282)" width="3" height="4" x="412" y="530.36"/>
-  <rect style="opacity:0.3;fill:url(#linearGradient19282)" width="1" height="1" x="411" y="531.36"/>
-  <rect style="opacity:0.3;fill:url(#linearGradient19282)" width="1" height="1" x="411" y="533.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="2" height="4" x="418" y="530.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="417" y="532.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="417" y="530.36"/>
-  <rect style="opacity:0.3;fill:url(#linearGradient19282)" width="1" height="1" x="410" y="532.36"/>
-  <rect style="opacity:0.3;fill:url(#linearGradient19282)" width="1" height="1" x="410" y="530.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="416" y="-534.36" transform="scale(1,-1)"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="416" y="-532.36" transform="scale(1,-1)"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="415" y="-531.36" transform="scale(1,-1)"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="415" y="-533.36" transform="scale(1,-1)"/>
-  <path style="fill:url(#linearGradient19282)" d="M 413,539.36 V 541.38 H 415 V 539.36 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 417,541.36 V 539.36 H 420 V 537.36 L 422.99,540.36 420,543.36 V 541.36 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 410,539.38 V 541.4 H 412 V 539.38 Z"/>
+  <path style="fill:#666666" d="M 410,528.37 V 529.37 H 410.5 421 V 535.86 536.36 H 422 V 535.86 528.87 528.37 H 421.5 410.5 Z"/>
+  <path style="fill:#666666" d="M 410,535.36 V 536.36 H 410.5 417 V 536.86 537.36 H 418 V 536.86 535.86 535.36 H 417.5 410.5 Z"/>
+  <rect style="opacity:0.3;fill:#666666" width="3" height="4" x="412" y="530.36"/>
+  <rect style="opacity:0.3;fill:#666666" width="1" height="1" x="411" y="531.36"/>
+  <rect style="opacity:0.3;fill:#666666" width="1" height="1" x="411" y="533.36"/>
+  <rect style="fill:#666666" width="2" height="4" x="418" y="530.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="417" y="532.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="417" y="530.36"/>
+  <rect style="opacity:0.3;fill:#666666" width="1" height="1" x="410" y="532.36"/>
+  <rect style="opacity:0.3;fill:#666666" width="1" height="1" x="410" y="530.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="416" y="-534.36" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="416" y="-532.36" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="415" y="-531.36" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="415" y="-533.36" transform="scale(1,-1)"/>
+  <path style="fill:#666666" d="M 413,539.36 V 541.38 H 415 V 539.36 Z"/>
+  <path style="fill:#666666" d="M 417,541.36 V 539.36 H 420 V 537.36 L 422.99,540.36 420,543.36 V 541.36 Z"/>
+  <path style="fill:#666666" d="M 410,539.38 V 541.4 H 412 V 539.38 Z"/>
  </g>
 </svg>

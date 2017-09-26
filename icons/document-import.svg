@@ -1,12 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6315700)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-15,-547.36)">
   <rect style="fill:none" width="16" height="15.999" x="15" y="547.36"/>
-  <path style="fill:url(#linearGradient19282)" d="M 18.812,547.36 C 18.354,547.45 17.992,547.9 18,548.36 V 549.36 560.36 561.36 C 18,561.89 18.476,562.36 19,562.36 H 29 C 29.524,562.36 30,561.89 30,561.36 V 551.92 C 30.006,551.66 29.902,551.4 29.719,551.21 L 26.156,547.64 C 25.966,547.46 25.702,547.36 25.437,547.36 H 19 C 18.969,547.36 18.937,547.36 18.906,547.36 18.875,547.36 18.844,547.36 18.813,547.36 Z M 20,549.36 H 25 V 552.36 H 28 V 560.36 H 20 Z"/>
-  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 16,554.36 H 22 V 552.36 L 25,555.36 22,558.36 V 556.36 H 16 Z"/>
+  <path style="fill:#666666" d="M 18.812,547.36 C 18.354,547.45 17.992,547.9 18,548.36 V 549.36 560.36 561.36 C 18,561.89 18.476,562.36 19,562.36 H 29 C 29.524,562.36 30,561.89 30,561.36 V 551.92 C 30.006,551.66 29.902,551.4 29.719,551.21 L 26.156,547.64 C 25.966,547.46 25.702,547.36 25.437,547.36 H 19 C 18.969,547.36 18.937,547.36 18.906,547.36 18.875,547.36 18.844,547.36 18.813,547.36 Z M 20,549.36 H 25 V 552.36 H 28 V 560.36 H 20 Z"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 16,554.36 H 22 V 552.36 L 25,555.36 22,558.36 V 556.36 H 16 Z"/>
  </g>
 </svg>

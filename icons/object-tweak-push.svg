@@ -1,35 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1535200,-67645)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-255,-687.36)">
   <rect style="fill:none" width="16" height="16" x="255" y="687.36"/>
-  <circle style="fill:url(#linearGradient19282)" cx="257.16" cy="690.54" r="1.341"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(0,2.41)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(0.01,5.09)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(0,7.95)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(2.96,-0.63)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(3.01,0.89)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(3.03,2.72)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(3,5.98)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(5.92,-0.71)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(5.99,0.38)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(6.03,2.05)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(5.99,4.83)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(8.86,-0.68)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(8.91,0.84)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(8.94,2.56)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(8.9,5.92)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(11.8,-0.01)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(11.81,2.53)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(11.82,5.18)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(11.8,7.91)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(0,10.71)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(3,9.72)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(5.99,9.5)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(8.9,9.89)" xlink:href="#path5011"/>
-  <use style="fill:url(#linearGradient19282)" width="1250" height="1250" x="0" y="0" transform="translate(11.8,10.68)" xlink:href="#path5011"/>
+  <circle style="fill:#666666" cx="257.16" cy="690.54" r="1.341"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(0,2.41)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(0.01,5.09)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(0,7.95)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(2.96,-0.63)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(3.01,0.89)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(3.03,2.72)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(3,5.98)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(5.92,-0.71)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(5.99,0.38)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(6.03,2.05)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(5.99,4.83)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(8.86,-0.68)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(8.91,0.84)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(8.94,2.56)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(8.9,5.92)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(11.8,-0.01)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(11.81,2.53)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(11.82,5.18)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(11.8,7.91)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(0,10.71)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(3,9.72)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(5.99,9.5)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(8.9,9.89)" xlink:href="#path5011"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(11.8,10.68)" xlink:href="#path5011"/>
  </g>
 </svg>

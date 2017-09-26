@@ -1,20 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6311100)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-1119,-1028.4)">
   <rect style="opacity:0.3;fill:none" width="16" height="16" x="1119" y="1028.4"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="1131" y="1034.4"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="1129" y="1034.4"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="1127" y="1034.4"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="1125" y="1034.4"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="1125" y="1036.4"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="1125" y="1038.4"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="1125" y="1040.4"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="1125" y="1042.4"/>
-  <path style="fill:url(#linearGradient19282)" d="M 1121,1043.4 V 1039.4 1034.4 C 1121,1032.1 1122.8,1030.4 1125,1030.4 H 1133 C 1133,1034.7 1133,1029.5 1133,1033.4 H 1126 C 1124.9,1033.3 1124,1034.2 1124,1035.4 V 1040.4 1043.4 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 1127,1036.4 H 1133 V 1038.1 1039.4 H 1130 V 1043.4 H 1127 Z"/>
+  <rect style="fill:#666666" width="1" height="1" x="1131" y="1034.4"/>
+  <rect style="fill:#666666" width="1" height="1" x="1129" y="1034.4"/>
+  <rect style="fill:#666666" width="1" height="1" x="1127" y="1034.4"/>
+  <rect style="fill:#666666" width="1" height="1" x="1125" y="1034.4"/>
+  <rect style="fill:#666666" width="1" height="1" x="1125" y="1036.4"/>
+  <rect style="fill:#666666" width="1" height="1" x="1125" y="1038.4"/>
+  <rect style="fill:#666666" width="1" height="1" x="1125" y="1040.4"/>
+  <rect style="fill:#666666" width="1" height="1" x="1125" y="1042.4"/>
+  <path style="fill:#666666" d="M 1121,1043.4 V 1039.4 1034.4 C 1121,1032.1 1122.8,1030.4 1125,1030.4 H 1133 C 1133,1034.7 1133,1029.5 1133,1033.4 H 1126 C 1124.9,1033.3 1124,1034.2 1124,1035.4 V 1040.4 1043.4 Z"/>
+  <path style="fill:#666666" d="M 1127,1036.4 H 1133 V 1038.1 1039.4 H 1130 V 1043.4 H 1127 Z"/>
  </g>
 </svg>

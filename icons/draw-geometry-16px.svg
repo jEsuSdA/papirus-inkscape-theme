@@ -1,16 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6313700)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-438,-589.36)">
   <rect style="fill:none" width="16" height="16" x="438" y="589.36"/>
-  <rect style="display:block;fill:url(#linearGradient19282)" width="13.952" height="1" x="439" y="599.36" rx=".623" ry=".5"/>
-  <path style="display:block;fill:url(#linearGradient19282)" d="M 450.24,595.91 447.53,594.36 446.75,595.13 448.3,597.07 449.08,601.72 450,603.36 V 605.36 L 451,604.36 451.01,600.56 Z"/>
-  <path style="display:block;fill:url(#linearGradient19282)" d="M 441.76,595.91 444.44,594.36 445.2,595.13 443.67,597.07 442.91,601.72 442,603.36 V 605.36 L 441,604.36 V 600.56 Z"/>
-  <rect style="display:block;fill:url(#linearGradient19282)" width="2" height="1.996" x="445" y="589.36" rx=".75" ry=".6"/>
-  <rect style="display:block;fill:url(#linearGradient19282)" width="2" height="3" x="445" y="598.36" rx="1.056" ry="1.106"/>
-  <path style="fill:url(#linearGradient19282)" d="M 446,590.36 C 444.34,590.36 443,591.7 443,593.36 443,595.02 444.34,596.36 446,596.36 447.66,596.36 449,595.02 449,593.36 449,591.7 447.66,590.36 446,590.36 Z M 446,591.83 C 446.85,591.83 447.53,592.51 447.53,593.36 447.53,594.21 446.85,594.89 446,594.89 445.15,594.89 444.47,594.21 444.47,593.36 444.47,592.51 445.15,591.83 446,591.83 Z"/>
+  <rect style="display:block;fill:#666666" width="13.952" height="1" x="439" y="599.36" rx=".623" ry=".5"/>
+  <path style="display:block;fill:#666666" d="M 450.24,595.91 447.53,594.36 446.75,595.13 448.3,597.07 449.08,601.72 450,603.36 V 605.36 L 451,604.36 451.01,600.56 Z"/>
+  <path style="display:block;fill:#666666" d="M 441.76,595.91 444.44,594.36 445.2,595.13 443.67,597.07 442.91,601.72 442,603.36 V 605.36 L 441,604.36 V 600.56 Z"/>
+  <rect style="display:block;fill:#666666" width="2" height="1.996" x="445" y="589.36" rx=".75" ry=".6"/>
+  <rect style="display:block;fill:#666666" width="2" height="3" x="445" y="598.36" rx="1.056" ry="1.106"/>
+  <path style="fill:#666666" d="M 446,590.36 C 444.34,590.36 443,591.7 443,593.36 443,595.02 444.34,596.36 446,596.36 447.66,596.36 449,595.02 449,593.36 449,591.7 447.66,590.36 446,590.36 Z M 446,591.83 C 446.85,591.83 447.53,592.51 447.53,593.36 447.53,594.21 446.85,594.89 446,594.89 445.15,594.89 444.47,594.21 444.47,593.36 444.47,592.51 445.15,591.83 446,591.83 Z"/>
  </g>
 </svg>

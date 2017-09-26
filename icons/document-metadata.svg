@@ -1,16 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16.024" height="16" version="1.1" viewBox="0 0 16.02 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6316300)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16.024" height="16" version="1.1" viewBox="0 0 16.02 16">
  <g transform="translate(-14.976,-607.36)">
   <rect style="fill:none" width="16" height="16" x="14.98" y="607.36"/>
-  <path style="fill:url(#linearGradient19282)" d="M 17.812,613.36 C 17.354,613.45 16.992,613.9 17,614.36 V 615.36 623.36 H 19 V 615.36 H 24 V 618.36 H 27 V 623.36 H 29 V 617.92 C 29.006,617.66 28.902,617.4 28.719,617.21 L 25.156,613.64 C 24.966,613.46 24.702,613.36 24.437,613.36 H 18 C 17.969,613.36 17.937,613.36 17.906,613.36 17.875,613.36 17.844,613.36 17.812,613.36 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 17,609.36 H 29 V 611.36 H 17 Z"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="16" x="15" y="607.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="16" height="1" x="15" y="607.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="16" x="30" y="607.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="16" height="1" x="15" y="622.36"/>
+  <path style="fill:#666666" d="M 17.812,613.36 C 17.354,613.45 16.992,613.9 17,614.36 V 615.36 623.36 H 19 V 615.36 H 24 V 618.36 H 27 V 623.36 H 29 V 617.92 C 29.006,617.66 28.902,617.4 28.719,617.21 L 25.156,613.64 C 24.966,613.46 24.702,613.36 24.437,613.36 H 18 C 17.969,613.36 17.937,613.36 17.906,613.36 17.875,613.36 17.844,613.36 17.812,613.36 Z"/>
+  <path style="fill:#666666" d="M 17,609.36 H 29 V 611.36 H 17 Z"/>
+  <rect style="fill:#666666" width="1" height="16" x="15" y="607.36"/>
+  <rect style="fill:#666666" width="16" height="1" x="15" y="607.36"/>
+  <rect style="fill:#666666" width="1" height="16" x="30" y="607.36"/>
+  <rect style="fill:#666666" width="16" height="1" x="15" y="622.36"/>
  </g>
 </svg>

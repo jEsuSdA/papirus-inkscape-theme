@@ -1,39 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6316300)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-438,-527.35)">
   <rect style="opacity:0.3;fill:none" width="16" height="16" x="438" y="527.35"/>
-  <path style="fill:url(#linearGradient19282)" d="M 440,528.36 V 529.36 H 440.5 451 V 535.85 536.35 H 452 V 535.85 528.86 528.36 H 451.5 440.5 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 440,535.35 V 536.35 H 440.5 447 V 536.85 537.35 H 448 V 536.85 535.85 535.35 H 447.5 440.5 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 443,539.35 V 541.37 H 445 V 539.35 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 447,541.35 V 539.35 H 450 V 537.35 L 452.99,540.35 450,543.35 V 541.35 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 440,539.37 V 541.39 H 442 V 539.37 Z"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="440" y="530.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="441" y="531.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="442" y="532.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="441" y="533.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="440" y="530.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="441" y="531.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="442" y="532.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="441" y="533.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="443" y="530.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="444" y="531.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="445" y="532.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="444" y="533.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="443" y="530.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="444" y="531.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="445" y="532.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="444" y="533.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="446" y="530.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="447" y="531.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="448" y="532.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="447" y="533.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="446" y="530.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="447" y="531.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="448" y="532.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="447" y="533.36"/>
+  <path style="fill:#666666" d="M 440,528.36 V 529.36 H 440.5 451 V 535.85 536.35 H 452 V 535.85 528.86 528.36 H 451.5 440.5 Z"/>
+  <path style="fill:#666666" d="M 440,535.35 V 536.35 H 440.5 447 V 536.85 537.35 H 448 V 536.85 535.85 535.35 H 447.5 440.5 Z"/>
+  <path style="fill:#666666" d="M 443,539.35 V 541.37 H 445 V 539.35 Z"/>
+  <path style="fill:#666666" d="M 447,541.35 V 539.35 H 450 V 537.35 L 452.99,540.35 450,543.35 V 541.35 Z"/>
+  <path style="fill:#666666" d="M 440,539.37 V 541.39 H 442 V 539.37 Z"/>
+  <rect style="fill:#666666" width="1" height="1" x="440" y="530.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="441" y="531.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="442" y="532.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="441" y="533.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="440" y="530.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="441" y="531.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="442" y="532.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="441" y="533.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="443" y="530.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="444" y="531.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="445" y="532.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="444" y="533.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="443" y="530.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="444" y="531.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="445" y="532.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="444" y="533.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="446" y="530.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="447" y="531.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="448" y="532.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="447" y="533.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="446" y="530.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="447" y="531.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="448" y="532.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="447" y="533.36"/>
  </g>
 </svg>

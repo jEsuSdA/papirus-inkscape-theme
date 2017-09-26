@@ -1,30 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" version="1.1" viewBox="0 0 24 24">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-11396000,-650560)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" version="1.1" viewBox="0 0 24 24">
  <g transform="translate(-285,-1022.4)">
   <path style="fill:none" d="M 285,1022.4 H 309 V 1046.4 H 285 Z"/>
-  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 303,1029.4 V 1027.4 C 302.49,1025.8 300,1026.4 300,1027.4 V 1029.4 Z"/>
-  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 306.96,1035.2 306,1034.4 H 297 L 296.03,1035.8 296,1042.4 C 298.89,1044.2 299.73,1046.9 307,1044.4 Z"/>
-  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 306,1033.4 304,1030.4 H 299 L 297,1033.4 Z"/>
-  <circle style="fill:url(#linearGradient19282)" cx="296.77" cy="1028.8" r=".403"/>
-  <use id="use23477" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.0586,0,0,1.0586,-18.17,-59.207)" xlink:href="#path23475"/>
-  <use id="use23479" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="translate(0,-2.2082)" xlink:href="#use23477"/>
-  <use id="use23483" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.3763,0,0,1.3763,-112.76,-386.66)" xlink:href="#use23477"/>
-  <use id="use23485" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.3763,0,0,1.3763,-113.1,-387.59)" xlink:href="#use23479"/>
-  <circle id="use23487" style="fill:url(#linearGradient19282)" cx="293.66" cy="1028.8" r=".587"/>
-  <use id="use23489" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.5012,0,0,1.5012,-149.62,-515.67)" xlink:href="#use23483"/>
-  <use id="use23491" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.5012,0,0,1.5012,-149.75,-515.6)" xlink:href="#use23485"/>
-  <use id="use23493" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.5012,0,0,1.5012,-149.5,-515.66)" xlink:href="#use23487"/>
-  <use style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.4856,0,0,1.4856,-145.2,-499.38)" xlink:href="#use23489"/>
-  <use style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.4856,0,0,1.4856,-145,-499.32)" xlink:href="#use23491"/>
-  <use style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.4856,0,0,1.4856,-144.95,-499.62)" xlink:href="#use23493"/>
-  <use id="use23501" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="translate(-4.2358,-1.3033)" xlink:href="#path23475"/>
-  <use style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="translate(0.44802,2.6881)" xlink:href="#use23501"/>
-  <use id="use23505" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="translate(-4.7246)" xlink:href="#use23485"/>
-  <use style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="translate(0.69239,4.1136)" xlink:href="#use23505"/>
-  <use style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="translate(-0.73484,-1.0442)" xlink:href="#use23477"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 303,1029.4 V 1027.4 C 302.49,1025.8 300,1026.4 300,1027.4 V 1029.4 Z"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 306.96,1035.2 306,1034.4 H 297 L 296.03,1035.8 296,1042.4 C 298.89,1044.2 299.73,1046.9 307,1044.4 Z"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 306,1033.4 304,1030.4 H 299 L 297,1033.4 Z"/>
+  <circle style="fill:#666666" cx="296.77" cy="1028.8" r=".403"/>
+  <use id="use23477" style="fill:#666666" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.0586,0,0,1.0586,-18.17,-59.207)" xlink:href="#path23475"/>
+  <use id="use23479" style="fill:#666666" width="744.09" height="1052.4" x="0" y="0" transform="translate(0,-2.2082)" xlink:href="#use23477"/>
+  <use id="use23483" style="fill:#666666" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.3763,0,0,1.3763,-112.76,-386.66)" xlink:href="#use23477"/>
+  <use id="use23485" style="fill:#666666" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.3763,0,0,1.3763,-113.1,-387.59)" xlink:href="#use23479"/>
+  <circle id="use23487" style="fill:#666666" cx="293.66" cy="1028.8" r=".587"/>
+  <use id="use23489" style="fill:#666666" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.5012,0,0,1.5012,-149.62,-515.67)" xlink:href="#use23483"/>
+  <use id="use23491" style="fill:#666666" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.5012,0,0,1.5012,-149.75,-515.6)" xlink:href="#use23485"/>
+  <use id="use23493" style="fill:#666666" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.5012,0,0,1.5012,-149.5,-515.66)" xlink:href="#use23487"/>
+  <use style="fill:#666666" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.4856,0,0,1.4856,-145.2,-499.38)" xlink:href="#use23489"/>
+  <use style="fill:#666666" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.4856,0,0,1.4856,-145,-499.32)" xlink:href="#use23491"/>
+  <use style="fill:#666666" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.4856,0,0,1.4856,-144.95,-499.62)" xlink:href="#use23493"/>
+  <use id="use23501" style="fill:#666666" width="744.09" height="1052.4" x="0" y="0" transform="translate(-4.2358,-1.3033)" xlink:href="#path23475"/>
+  <use style="fill:#666666" width="744.09" height="1052.4" x="0" y="0" transform="translate(0.44802,2.6881)" xlink:href="#use23501"/>
+  <use id="use23505" style="fill:#666666" width="744.09" height="1052.4" x="0" y="0" transform="translate(-4.7246)" xlink:href="#use23485"/>
+  <use style="fill:#666666" width="744.09" height="1052.4" x="0" y="0" transform="translate(0.69239,4.1136)" xlink:href="#use23505"/>
+  <use style="fill:#666666" width="744.09" height="1052.4" x="0" y="0" transform="translate(-0.73484,-1.0442)" xlink:href="#use23477"/>
  </g>
 </svg>

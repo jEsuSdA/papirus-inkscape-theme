@@ -1,15 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6315300)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-799,-589.36)">
   <rect style="fill:none" width="16" height="16" x="799" y="589.36"/>
-  <path style="fill:url(#linearGradient19282)" d="M 800,589.36 C 799.45,589.36 799,589.81 799,590.36 V 597.36 C 799,597.91 799.45,598.36 800,598.36 H 807 V 602.36 L 812,598.36 H 814 C 814.55,598.36 815,597.91 815,597.36 V 590.36 C 815,589.81 814.55,589.36 814,589.36 Z M 801,590.36 H 813 C 813.55,590.36 814,590.81 814,591.36 V 596.36 C 814,596.91 813.55,597.36 813,597.36 H 812 811.5 L 808,600.02 V 597.36 H 807 801 C 800.45,597.36 800,596.91 800,596.36 V 591.36 C 800,590.81 800.45,590.36 801,590.36 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 799,603.36 V 605.36 H 800 V 604.36 H 801 V 605.36 H 802 V 604.36 H 803 V 605.36 H 804 V 604.36 H 805 V 605.36 H 806 V 604.36 H 807 V 605.36 H 808 V 604.36 H 809 V 605.36 H 810 V 604.36 H 811 V 605.36 H 812 V 604.36 H 813 V 605.36 H 814 V 603.36 Z"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="5" x="805" y="591.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="1" x="807" y="595.36"/>
-  <path style="fill:url(#linearGradient19282)" d="M 809,591.36 V 596.36 H 812 V 591.36 Z M 810,592.36 H 811 V 595.36 H 810 Z"/>
+  <path style="fill:#666666" d="M 800,589.36 C 799.45,589.36 799,589.81 799,590.36 V 597.36 C 799,597.91 799.45,598.36 800,598.36 H 807 V 602.36 L 812,598.36 H 814 C 814.55,598.36 815,597.91 815,597.36 V 590.36 C 815,589.81 814.55,589.36 814,589.36 Z M 801,590.36 H 813 C 813.55,590.36 814,590.81 814,591.36 V 596.36 C 814,596.91 813.55,597.36 813,597.36 H 812 811.5 L 808,600.02 V 597.36 H 807 801 C 800.45,597.36 800,596.91 800,596.36 V 591.36 C 800,590.81 800.45,590.36 801,590.36 Z"/>
+  <path style="fill:#666666" d="M 799,603.36 V 605.36 H 800 V 604.36 H 801 V 605.36 H 802 V 604.36 H 803 V 605.36 H 804 V 604.36 H 805 V 605.36 H 806 V 604.36 H 807 V 605.36 H 808 V 604.36 H 809 V 605.36 H 810 V 604.36 H 811 V 605.36 H 812 V 604.36 H 813 V 605.36 H 814 V 603.36 Z"/>
+  <rect style="fill:#666666" width="1" height="5" x="805" y="591.36"/>
+  <rect style="fill:#666666" width="1" height="1" x="807" y="595.36"/>
+  <path style="fill:#666666" d="M 809,591.36 V 596.36 H 812 V 591.36 Z M 810,592.36 H 811 V 595.36 H 810 Z"/>
  </g>
 </svg>

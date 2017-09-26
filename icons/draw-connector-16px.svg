@@ -1,15 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-26980000,-2300900)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-318,-867.36)">
-  <path style="fill:url(#linearGradient19282)" d="M 328.31,869.36 A 0.33209,0.30752 0 0 0 328.14,869.92 L 331.34,872.28 V 877.05 A 0.33209,0.30752 0 1 0 332,877.05 V 872.13 A 0.33209,0.30752 0 0 0 331.88,871.9 L 328.55,869.44 A 0.33209,0.30752 0 0 0 328.31,869.36 Z"/>
-  <path style="fill:url(#linearGradient19282)" d="M 323.62,873.36 A 0.37433,0.27069 3.633 0 0 323.27,873.52 L 321,876.96 A 0.37839,0.27362 3.633 0 0 321.68,877.22 L 323.96,873.77 A 0.37433,0.27069 3.633 0 0 323.62,873.36 Z"/>
-  <rect style="fill:url(#linearGradient19282)" width="5" height="5" x="322" y="867.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="5" height="4.999" x="318.99" y="878.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="5" height="5" x="329" y="878.37"/>
+  <path style="fill:#666666" d="M 328.31,869.36 A 0.33209,0.30752 0 0 0 328.14,869.92 L 331.34,872.28 V 877.05 A 0.33209,0.30752 0 1 0 332,877.05 V 872.13 A 0.33209,0.30752 0 0 0 331.88,871.9 L 328.55,869.44 A 0.33209,0.30752 0 0 0 328.31,869.36 Z"/>
+  <path style="fill:#666666" d="M 323.62,873.36 A 0.37433,0.27069 3.633 0 0 323.27,873.52 L 321,876.96 A 0.37839,0.27362 3.633 0 0 321.68,877.22 L 323.96,873.77 A 0.37433,0.27069 3.633 0 0 323.62,873.36 Z"/>
+  <rect style="fill:#666666" width="5" height="5" x="322" y="867.36"/>
+  <rect style="fill:#666666" width="5" height="4.999" x="318.99" y="878.36"/>
+  <rect style="fill:#666666" width="5" height="5" x="329" y="878.37"/>
   <rect style="fill:none" width="16" height="16" x="318" y="867.36"/>
  </g>
 </svg>

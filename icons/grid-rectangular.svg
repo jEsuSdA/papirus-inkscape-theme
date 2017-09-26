@@ -1,22 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <defs>
-  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6308400)" osb:paint="solid">
-   <stop style="stop-color:#666666" offset="0"/>
-  </linearGradient>
- </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(-195,-931.36)">
   <rect style="fill:none" width="16" height="16" x="195" y="931.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="16" x="195" y="931.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="16" height="1" x="195" y="931.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="16" x="210" y="931.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="16" height="1" x="195" y="946.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="16" height="1" x="195" y="934.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="16" height="1" x="195" y="937.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="16" height="1" x="195" y="940.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="16" height="1" x="195" y="943.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="16" x="198" y="931.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="16" x="201" y="931.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="16" x="204" y="931.36"/>
-  <rect style="fill:url(#linearGradient19282)" width="1" height="16" x="207" y="931.36"/>
+  <rect style="fill:#666666" width="1" height="16" x="195" y="931.36"/>
+  <rect style="fill:#666666" width="16" height="1" x="195" y="931.36"/>
+  <rect style="fill:#666666" width="1" height="16" x="210" y="931.36"/>
+  <rect style="fill:#666666" width="16" height="1" x="195" y="946.36"/>
+  <rect style="fill:#666666" width="16" height="1" x="195" y="934.36"/>
+  <rect style="fill:#666666" width="16" height="1" x="195" y="937.36"/>
+  <rect style="fill:#666666" width="16" height="1" x="195" y="940.36"/>
+  <rect style="fill:#666666" width="16" height="1" x="195" y="943.36"/>
+  <rect style="fill:#666666" width="1" height="16" x="198" y="931.36"/>
+  <rect style="fill:#666666" width="1" height="16" x="201" y="931.36"/>
+  <rect style="fill:#666666" width="1" height="16" x="204" y="931.36"/>
+  <rect style="fill:#666666" width="1" height="16" x="207" y="931.36"/>
  </g>
 </svg>
