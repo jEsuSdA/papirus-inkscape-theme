@@ -1,148 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-  xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:cc="http://creativecommons.org/ns#"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:svg="http://www.w3.org/2000/svg"
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-  width="16"
-  height="16"
-  id="svg15638"
-  version="1.1"
-  inkscape:version="0.92.2 (unknown)"
-  sodipodi:docname="document-cleanup.svg"
-  viewBox="0 0 16 16">
- <title
-   id="title9623">Inkscape Icon Theme</title>
- <defs
-   id="defs15640">
-  <!--<inkscape:path-effect effect="spiro" id="path-effect36695" is_visible="true" />-->
-  <linearGradient
-    id="linearGradient19282"
-    osb:paint="solid"
-    gradientTransform="matrix(0,0,0,0,-6777900,-369850)">
-   <stop
-     style="stop-color:#666666;stop-opacity:1"
-     offset="0"
-     id="stop19284" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-6777900,-369850)" osb:paint="solid">
+   <stop style="stop-color:#666666" offset="0"/>
   </linearGradient>
  </defs>
- <sodipodi:namedview
-   id="base"
-   pagecolor="#f2f2f2"
-   bordercolor="#666666"
-   borderopacity="1.0"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:zoom="0.76028"
-   inkscape:cx="345.9"
-   inkscape:cy="-199.02"
-   inkscape:document-units="px"
-   inkscape:current-layer="layer1"
-   showgrid="false"
-   inkscape:window-width="1280"
-   inkscape:window-height="960"
-   inkscape:window-x="0"
-   inkscape:window-y="27"
-   inkscape:window-maximized="1"
-   inkscape:snap-bbox="true"
-   inkscape:bbox-paths="false"
-   inkscape:bbox-nodes="true"
-   inkscape:snap-global="false"
-   showguides="false"
-   inkscape:guide-bbox="true"
-   inkscape:snap-nodes="false"
-   inkscape:snap-object-midpoints="false"
-   inkscape:snap-grids="true"
-   inkscape:snap-to-guides="true"
-   borderlayer="true"
-   inkscape:showpageshadow="false"
-   showborder="true"
-   inkscape:snap-bbox-edge-midpoints="false"
-   inkscape:object-nodes="true"
-   inkscape:snap-intersection-paths="false"
-   inkscape:snap-center="true">
-  <inkscape:grid
-    type="xygrid"
-    id="grid15646"
-    empspacing="5"
-    visible="true"
-    enabled="true"
-    snapvisiblegridlinesonly="true"
-    originx="-15"
-    originy="-569" />
- </sodipodi:namedview>
- <metadata
-   id="metadata15643">
-  <rdf:RDF>
-   <cc:Work
-     rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type
-      rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title>Inkscape Icon Theme</dc:title>
-    <dc:creator>
-     <cc:Agent>
-      <dc:title>Barbara Muraus</dc:title>
-     </cc:Agent>
-    </dc:creator>
-    <dc:contributor>
-     <cc:Agent>
-      <dc:title>Jakub Steiner, Josh Andler</dc:title>
-     </cc:Agent>
-    </dc:contributor>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g
-   inkscape:label="Layer 1"
-   inkscape:groupmode="layer"
-   id="layer1"
-   transform="translate(-15,-587.36)">
-  <rect
-    style="fill:none;stroke-width:0.99845"
-    id="rect29219"
-    width="15.95"
-    height="16"
-    x="15"
-    y="587.36" />
-  <path
-    inkscape:connector-curvature="0"
-    id="path11319"
-    d="M 24.704,590.18 C 24.704,590.18 24.691,590.73 24.401,591.27 24.112,591.82 23.601,592.36 22.285,592.36 21.172,592.36 18.988,592.36 18.415,592.5 17.779,592.65 17.18,592.94 16.723,593.45 16.264,593.97 15.997,594.71 15.997,595.63 15.997,596.34 16.126,596.91 16.39,597.34 16.653,597.77 17.043,598.05 17.417,598.19 18.167,598.48 18.949,598.36 19.382,598.36 V 597.27 C 18.85,597.27 18.18,597.34 17.721,597.17 17.49,597.08 17.336,596.94 17.206,596.73 17.077,596.51 16.964,596.18 16.964,595.63 16.964,594.93 17.146,594.51 17.417,594.2 17.69,593.9 18.099,593.71 18.627,593.59 18.988,593.36 21.104,593.45 22.285,593.45 23.87,593.45 24.811,592.64 25.247,591.82 25.684,591 25.671,590.18 25.671,590.18 Z"
-    style="color:#000000;-inkscape-font-specification:Sans;fill:url(#linearGradient19282);stroke-width:0.99845px"
-    sodipodi:nodetypes="ccsscsscccccsccssccc" />
-  <ellipse
-    ry="1"
-    rx="0.99687"
-    cy="602.36"
-    cx="19.983"
-    style="color:#000000;fill:url(#linearGradient19282);fill-rule:evenodd;stroke-width:1.39074"
-    id="path11327" />
-  <path
-    style="color:#000000;fill:url(#linearGradient19282);fill-rule:evenodd;stroke-width:0.99845"
-    d="M 18.988,597.36 C 22.975,595.36 28.957,596.36 28.957,596.36 V 602.36 C 28.957,602.36 28.976,602.34 17.991,602.36 15.997,602.36 16.994,598.36 18.988,597.36 Z"
-    id="rect11314"
-    sodipodi:nodetypes="scccs"
-    inkscape:connector-curvature="0" />
-  <ellipse
-    ry="2.4785"
-    rx="2.4269"
-    cy="600.89"
-    cx="28.571"
-    style="color:#000000;fill:url(#linearGradient19282);fill-rule:evenodd;stroke-width:0.97759"
-    id="path11312" />
-  <rect
-    style="color:#000000;fill:url(#linearGradient19282);fill-rule:evenodd;stroke-width:0.99845"
-    id="rect11317"
-    width="7.8262"
-    height="2.0343"
-    x="21.274"
-    y="588.4" />
+ <g transform="translate(-15,-587.36)">
+  <rect style="fill:none" width="15.95" height="16" x="15" y="587.36"/>
+  <path style="fill:url(#linearGradient19282)" d="M 24.704,590.18 C 24.704,590.18 24.691,590.73 24.401,591.27 24.112,591.82 23.601,592.36 22.285,592.36 21.172,592.36 18.988,592.36 18.415,592.5 17.779,592.65 17.18,592.94 16.723,593.45 16.264,593.97 15.997,594.71 15.997,595.63 15.997,596.34 16.126,596.91 16.39,597.34 16.653,597.77 17.043,598.05 17.417,598.19 18.167,598.48 18.949,598.36 19.382,598.36 V 597.27 C 18.85,597.27 18.18,597.34 17.721,597.17 17.49,597.08 17.336,596.94 17.206,596.73 17.077,596.51 16.964,596.18 16.964,595.63 16.964,594.93 17.146,594.51 17.417,594.2 17.69,593.9 18.099,593.71 18.627,593.59 18.988,593.36 21.104,593.45 22.285,593.45 23.87,593.45 24.811,592.64 25.247,591.82 25.684,591 25.671,590.18 25.671,590.18 Z"/>
+  <ellipse style="fill:url(#linearGradient19282);fill-rule:evenodd" cx="19.983" cy="602.36" rx=".997" ry="1"/>
+  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 18.988,597.36 C 22.975,595.36 28.957,596.36 28.957,596.36 V 602.36 C 28.957,602.36 28.976,602.34 17.991,602.36 15.997,602.36 16.994,598.36 18.988,597.36 Z"/>
+  <ellipse style="fill:url(#linearGradient19282);fill-rule:evenodd" cx="28.571" cy="600.89" rx="2.427" ry="2.478"/>
+  <rect style="fill:url(#linearGradient19282);fill-rule:evenodd" width="7.826" height="2.034" x="21.27" y="588.4"/>
  </g>
 </svg>

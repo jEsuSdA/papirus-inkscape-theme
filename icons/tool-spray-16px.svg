@@ -1,195 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-  xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:cc="http://creativecommons.org/ns#"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:svg="http://www.w3.org/2000/svg"
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-  width="16"
-  height="16"
-  id="svg15638"
-  version="1.1"
-  inkscape:version="0.92.2 (unknown)"
-  sodipodi:docname="tool-spray-16px.svg"
-  viewBox="0 0 16 16">
- <title
-   id="title9623">Inkscape Icon Theme</title>
- <defs
-   id="defs15640">
-  <!--<inkscape:path-effect effect="spiro" id="path-effect36695" is_visible="true" />-->
-  <linearGradient
-    id="linearGradient19282"
-    osb:paint="solid"
-    gradientTransform="matrix(0,0,0,0,-1052900,-57493)">
-   <stop
-     style="stop-color:#666666;stop-opacity:1"
-     offset="0"
-     id="stop19284" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1052900,-57493)" osb:paint="solid">
+   <stop style="stop-color:#666666" offset="0"/>
   </linearGradient>
  </defs>
- <sodipodi:namedview
-   id="base"
-   pagecolor="#f2f2f2"
-   bordercolor="#666666"
-   borderopacity="1.0"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:zoom="0.76028"
-   inkscape:cx="43.9"
-   inkscape:cy="235.98"
-   inkscape:document-units="px"
-   inkscape:current-layer="layer1"
-   showgrid="false"
-   inkscape:window-width="1280"
-   inkscape:window-height="960"
-   inkscape:window-x="0"
-   inkscape:window-y="27"
-   inkscape:window-maximized="1"
-   inkscape:snap-bbox="true"
-   inkscape:bbox-paths="false"
-   inkscape:bbox-nodes="true"
-   inkscape:snap-global="false"
-   showguides="false"
-   inkscape:guide-bbox="true"
-   inkscape:snap-nodes="false"
-   inkscape:snap-object-midpoints="false"
-   inkscape:snap-grids="true"
-   inkscape:snap-to-guides="true"
-   borderlayer="true"
-   inkscape:showpageshadow="false"
-   showborder="true"
-   inkscape:snap-bbox-edge-midpoints="false"
-   inkscape:object-nodes="true"
-   inkscape:snap-intersection-paths="false"
-   inkscape:snap-center="true">
-  <inkscape:grid
-    type="xygrid"
-    id="grid15646"
-    empspacing="5"
-    visible="true"
-    enabled="true"
-    snapvisiblegridlinesonly="true"
-    originx="-317"
-    originy="-134" />
- </sodipodi:namedview>
- <metadata
-   id="metadata15643">
-  <rdf:RDF>
-   <cc:Work
-     rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type
-      rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title>Inkscape Icon Theme</dc:title>
-    <dc:creator>
-     <cc:Agent>
-      <dc:title>Barbara Muraus</dc:title>
-     </cc:Agent>
-    </dc:creator>
-    <dc:contributor>
-     <cc:Agent>
-      <dc:title>Jakub Steiner, Josh Andler</dc:title>
-     </cc:Agent>
-    </dc:contributor>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g
-   inkscape:label="Layer 1"
-   inkscape:groupmode="layer"
-   id="layer1"
-   transform="translate(-317,-1022.4)">
-  <path
-    id="path30252"
-    d="M 317,1022.4 H 333 V 1038.4 H 317 Z"
-    style="fill:none"
-    inkscape:connector-curvature="0" />
-  <path
-    inkscape:connector-curvature="0"
-    style="fill:url(#linearGradient19282);fill-rule:evenodd"
-    d="M 329,1027.4 V 1026.2 C 329,1025.1 327,1025.1 327,1026.2 V 1027.4 Z"
-    id="path30254"
-    sodipodi:nodetypes="ccccc" />
-  <path
-    inkscape:connector-curvature="0"
-    sodipodi:nodetypes="ccccccc"
-    id="path30256"
-    d="M 332,1032.4 331,1031.4 H 325 L 324,1032.4 V 1036.4 C 324,1036.4 326,1038.4 332,1038.4 Z"
-    style="fill:url(#linearGradient19282);fill-rule:evenodd" />
-  <path
-    inkscape:connector-curvature="0"
-    style="fill:url(#linearGradient19282);fill-rule:evenodd"
-    d="M 331,1030.4 330,1028.4 H 326 L 325,1030.4 Z"
-    id="path30258"
-    sodipodi:nodetypes="ccccc" />
-  <circle
-    r="0.2688"
-    cy="1027.1"
-    cx="324.9"
-    id="path30260"
-    style="color:#000000;fill:url(#linearGradient19282);stroke-width:0.06667" />
-  <circle
-    cy="1028.4"
-    cx="324"
-    id="use30268"
-    style="color:#000000;fill:url(#linearGradient19282);stroke-width:0.09713"
-    r="0.39164" />
-  <ellipse
-    cy="1025.5"
-    cx="323.93"
-    style="color:#000000;fill:url(#linearGradient19282);stroke-width:0.09983"
-    id="use30270"
-    rx="0.41373"
-    ry="0.39164" />
-  <circle
-    r="0.58794"
-    cy="1029"
-    cx="322.46"
-    style="color:#000000;fill:url(#linearGradient19282);stroke-width:0.14582"
-    id="use30274" />
-  <circle
-    r="0.58794"
-    cy="1024.9"
-    cx="322.39"
-    id="use30276"
-    style="color:#000000;fill:url(#linearGradient19282);stroke-width:0.14582" />
-  <circle
-    r="0.58794"
-    cy="1027.3"
-    cx="321.55"
-    id="use30278"
-    style="color:#000000;fill:url(#linearGradient19282);stroke-width:0.14582" />
-  <ellipse
-    cy="1030.4"
-    cx="319.91"
-    id="use30280"
-    style="color:#000000;fill:url(#linearGradient19282);stroke-width:0.2459"
-    rx="0.99292"
-    ry="0.99005" />
-  <ellipse
-    cy="1024.4"
-    cx="320.14"
-    style="color:#000000;fill:url(#linearGradient19282);stroke-width:0.24646"
-    id="use30282"
-    rx="0.99995"
-    ry="0.98755" />
-  <ellipse
-    cy="1027.3"
-    cx="318.99"
-    style="color:#000000;fill:url(#linearGradient19282);stroke-width:0.25383"
-    id="use30284"
-    rx="0.99995"
-    ry="1.0475" />
-  <circle
-    r="0.49955"
-    cy="1027.2"
-    cx="323.54"
-    id="use30294"
-    style="color:#000000;fill:url(#linearGradient19282);stroke-width:0.12389" />
+ <g transform="translate(-317,-1022.4)">
+  <path style="fill:none" d="M 317,1022.4 H 333 V 1038.4 H 317 Z"/>
+  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 329,1027.4 V 1026.2 C 329,1025.1 327,1025.1 327,1026.2 V 1027.4 Z"/>
+  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 332,1032.4 331,1031.4 H 325 L 324,1032.4 V 1036.4 C 324,1036.4 326,1038.4 332,1038.4 Z"/>
+  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 331,1030.4 330,1028.4 H 326 L 325,1030.4 Z"/>
+  <circle style="fill:url(#linearGradient19282)" cx="324.9" cy="1027.1" r=".269"/>
+  <circle style="fill:url(#linearGradient19282)" cx="324" cy="1028.4" r=".392"/>
+  <ellipse style="fill:url(#linearGradient19282)" cx="323.93" cy="1025.5" rx=".414" ry=".392"/>
+  <circle style="fill:url(#linearGradient19282)" cx="322.46" cy="1029" r=".588"/>
+  <circle style="fill:url(#linearGradient19282)" cx="322.39" cy="1024.9" r=".588"/>
+  <circle style="fill:url(#linearGradient19282)" cx="321.55" cy="1027.3" r=".588"/>
+  <ellipse style="fill:url(#linearGradient19282)" cx="319.91" cy="1030.4" rx=".993" ry=".99"/>
+  <ellipse style="fill:url(#linearGradient19282)" cx="320.14" cy="1024.4" rx="1" ry=".988"/>
+  <ellipse style="fill:url(#linearGradient19282)" cx="318.99" cy="1027.3" rx="1" ry="1.048"/>
+  <circle style="fill:url(#linearGradient19282)" cx="323.54" cy="1027.2" r=".5"/>
  </g>
 </svg>

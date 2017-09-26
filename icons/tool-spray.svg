@@ -1,279 +1,30 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-  xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:cc="http://creativecommons.org/ns#"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:svg="http://www.w3.org/2000/svg"
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
-  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-  width="24"
-  height="24"
-  id="svg15638"
-  version="1.1"
-  inkscape:version="0.92.2 (unknown)"
-  sodipodi:docname="tool-spray.svg"
-  viewBox="0 0 24 24">
- <title
-   id="title9623">Inkscape Icon Theme</title>
- <defs
-   id="defs15640">
-  <!--<inkscape:path-effect effect="spiro" id="path-effect36695" is_visible="true" />-->
-  <linearGradient
-    id="linearGradient19282"
-    osb:paint="solid"
-    gradientTransform="matrix(0,0,0,0,-11396000,-650560)">
-   <stop
-     style="stop-color:#666666;stop-opacity:1"
-     offset="0"
-     id="stop19284" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-11396000,-650560)" osb:paint="solid">
+   <stop style="stop-color:#666666" offset="0"/>
   </linearGradient>
  </defs>
- <sodipodi:namedview
-   id="base"
-   pagecolor="#f2f2f2"
-   bordercolor="#666666"
-   borderopacity="1.0"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:zoom="0.76028"
-   inkscape:cx="75.9"
-   inkscape:cy="243.98"
-   inkscape:document-units="px"
-   inkscape:current-layer="layer1"
-   showgrid="false"
-   inkscape:window-width="1280"
-   inkscape:window-height="960"
-   inkscape:window-x="0"
-   inkscape:window-y="27"
-   inkscape:window-maximized="1"
-   inkscape:snap-bbox="true"
-   inkscape:bbox-paths="false"
-   inkscape:bbox-nodes="true"
-   inkscape:snap-global="false"
-   showguides="false"
-   inkscape:guide-bbox="true"
-   inkscape:snap-nodes="false"
-   inkscape:snap-object-midpoints="false"
-   inkscape:snap-grids="true"
-   inkscape:snap-to-guides="true"
-   borderlayer="true"
-   inkscape:showpageshadow="false"
-   showborder="true"
-   inkscape:snap-bbox-edge-midpoints="false"
-   inkscape:object-nodes="true"
-   inkscape:snap-intersection-paths="false"
-   inkscape:snap-center="true">
-  <inkscape:grid
-    type="xygrid"
-    id="grid15646"
-    empspacing="5"
-    visible="true"
-    enabled="true"
-    snapvisiblegridlinesonly="true"
-    originx="-285"
-    originy="-126" />
- </sodipodi:namedview>
- <metadata
-   id="metadata15643">
-  <rdf:RDF>
-   <cc:Work
-     rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type
-      rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title>Inkscape Icon Theme</dc:title>
-    <dc:creator>
-     <cc:Agent>
-      <dc:title>Barbara Muraus</dc:title>
-     </cc:Agent>
-    </dc:creator>
-    <dc:contributor>
-     <cc:Agent>
-      <dc:title>Jakub Steiner, Josh Andler</dc:title>
-     </cc:Agent>
-    </dc:contributor>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g
-   inkscape:label="Layer 1"
-   inkscape:groupmode="layer"
-   id="layer1"
-   transform="translate(-285,-1022.4)">
-  <path
-    inkscape:connector-curvature="0"
-    style="fill:none"
-    d="M 285,1022.4 H 309 V 1046.4 H 285 Z"
-    id="path5769" />
-  <path
-    sodipodi:nodetypes="ccccc"
-    id="path6331-0"
-    d="M 303,1029.4 V 1027.4 C 302.49,1025.8 300,1026.4 300,1027.4 V 1029.4 Z"
-    style="fill:url(#linearGradient19282);fill-rule:evenodd"
-    inkscape:connector-curvature="0" />
-  <path
-    style="fill:url(#linearGradient19282);fill-rule:evenodd"
-    d="M 306.96,1035.2 306,1034.4 H 297 L 296.03,1035.8 296,1042.4 C 298.89,1044.2 299.73,1046.9 307,1044.4 Z"
-    id="path6315-8"
-    sodipodi:nodetypes="ccccccc"
-    inkscape:connector-curvature="0" />
-  <path
-    sodipodi:nodetypes="ccccc"
-    id="path5211-1"
-    d="M 306,1033.4 304,1030.4 H 299 L 297,1033.4 Z"
-    style="fill:url(#linearGradient19282);fill-rule:evenodd"
-    inkscape:connector-curvature="0" />
-  <circle
-    style="color:#000000;fill:url(#linearGradient19282);stroke-width:0.1"
-    id="path23475"
-    cx="296.77"
-    cy="1028.8"
-    r="0.4032" />
-  <use
-    x="0"
-    y="0"
-    xlink:href="#path23475"
-    id="use23477"
-    transform="matrix(1.0586,0,0,1.0586,-18.17,-59.207)"
-    width="744.09"
-    height="1052.4"
-    style="fill:url(#linearGradient19282)" />
-  <use
-    x="0"
-    y="0"
-    xlink:href="#use23477"
-    id="use23479"
-    transform="translate(0,-2.2082)"
-    width="744.09"
-    height="1052.4"
-    style="fill:url(#linearGradient19282)" />
-  <use
-    x="0"
-    y="0"
-    xlink:href="#use23477"
-    id="use23483"
-    transform="matrix(1.3763,0,0,1.3763,-112.76,-386.66)"
-    width="744.09"
-    height="1052.4"
-    style="fill:url(#linearGradient19282)" />
-  <use
-    x="0"
-    y="0"
-    xlink:href="#use23479"
-    id="use23485"
-    transform="matrix(1.3763,0,0,1.3763,-113.1,-387.59)"
-    width="744.09"
-    height="1052.4"
-    style="fill:url(#linearGradient19282)" />
-  <circle
-    style="color:#000000;fill:url(#linearGradient19282);stroke-width:0.1457"
-    id="use23487"
-    cx="293.66"
-    cy="1028.8"
-    r="0.58746" />
-  <use
-    x="0"
-    y="0"
-    xlink:href="#use23483"
-    id="use23489"
-    transform="matrix(1.5012,0,0,1.5012,-149.62,-515.67)"
-    width="744.09"
-    height="1052.4"
-    style="fill:url(#linearGradient19282)" />
-  <use
-    x="0"
-    y="0"
-    xlink:href="#use23485"
-    id="use23491"
-    transform="matrix(1.5012,0,0,1.5012,-149.75,-515.6)"
-    width="744.09"
-    height="1052.4"
-    style="fill:url(#linearGradient19282)" />
-  <use
-    x="0"
-    y="0"
-    xlink:href="#use23487"
-    id="use23493"
-    transform="matrix(1.5012,0,0,1.5012,-149.5,-515.66)"
-    width="744.09"
-    height="1052.4"
-    style="fill:url(#linearGradient19282)" />
-  <use
-    x="0"
-    y="0"
-    xlink:href="#use23489"
-    id="use23495"
-    transform="matrix(1.4856,0,0,1.4856,-145.2,-499.38)"
-    width="744.09"
-    height="1052.4"
-    style="fill:url(#linearGradient19282)" />
-  <use
-    x="0"
-    y="0"
-    xlink:href="#use23491"
-    id="use23497"
-    transform="matrix(1.4856,0,0,1.4856,-145,-499.32)"
-    width="744.09"
-    height="1052.4"
-    style="fill:url(#linearGradient19282)" />
-  <use
-    x="0"
-    y="0"
-    xlink:href="#use23493"
-    id="use23499"
-    transform="matrix(1.4856,0,0,1.4856,-144.95,-499.62)"
-    width="744.09"
-    height="1052.4"
-    style="fill:url(#linearGradient19282)" />
-  <use
-    x="0"
-    y="0"
-    xlink:href="#path23475"
-    id="use23501"
-    transform="translate(-4.2358,-1.3033)"
-    width="744.09"
-    height="1052.4"
-    style="fill:url(#linearGradient19282)" />
-  <use
-    x="0"
-    y="0"
-    xlink:href="#use23501"
-    id="use23503"
-    transform="translate(0.44802,2.6881)"
-    width="744.09"
-    height="1052.4"
-    style="fill:url(#linearGradient19282)" />
-  <use
-    x="0"
-    y="0"
-    xlink:href="#use23485"
-    id="use23505"
-    transform="translate(-4.7246)"
-    width="744.09"
-    height="1052.4"
-    style="fill:url(#linearGradient19282)" />
-  <use
-    x="0"
-    y="0"
-    xlink:href="#use23505"
-    id="use23509"
-    transform="translate(0.69239,4.1136)"
-    width="744.09"
-    height="1052.4"
-    style="fill:url(#linearGradient19282)" />
-  <use
-    style="fill:url(#linearGradient19282)"
-    height="1052.4"
-    width="744.09"
-    transform="translate(-0.73484,-1.0442)"
-    id="use30430"
-    xlink:href="#use23477"
-    y="0"
-    x="0" />
+ <g transform="translate(-285,-1022.4)">
+  <path style="fill:none" d="M 285,1022.4 H 309 V 1046.4 H 285 Z"/>
+  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 303,1029.4 V 1027.4 C 302.49,1025.8 300,1026.4 300,1027.4 V 1029.4 Z"/>
+  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 306.96,1035.2 306,1034.4 H 297 L 296.03,1035.8 296,1042.4 C 298.89,1044.2 299.73,1046.9 307,1044.4 Z"/>
+  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 306,1033.4 304,1030.4 H 299 L 297,1033.4 Z"/>
+  <circle style="fill:url(#linearGradient19282)" cx="296.77" cy="1028.8" r=".403"/>
+  <use id="use23477" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.0586,0,0,1.0586,-18.17,-59.207)" xlink:href="#path23475"/>
+  <use id="use23479" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="translate(0,-2.2082)" xlink:href="#use23477"/>
+  <use id="use23483" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.3763,0,0,1.3763,-112.76,-386.66)" xlink:href="#use23477"/>
+  <use id="use23485" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.3763,0,0,1.3763,-113.1,-387.59)" xlink:href="#use23479"/>
+  <circle id="use23487" style="fill:url(#linearGradient19282)" cx="293.66" cy="1028.8" r=".587"/>
+  <use id="use23489" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.5012,0,0,1.5012,-149.62,-515.67)" xlink:href="#use23483"/>
+  <use id="use23491" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.5012,0,0,1.5012,-149.75,-515.6)" xlink:href="#use23485"/>
+  <use id="use23493" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.5012,0,0,1.5012,-149.5,-515.66)" xlink:href="#use23487"/>
+  <use style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.4856,0,0,1.4856,-145.2,-499.38)" xlink:href="#use23489"/>
+  <use style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.4856,0,0,1.4856,-145,-499.32)" xlink:href="#use23491"/>
+  <use style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="matrix(1.4856,0,0,1.4856,-144.95,-499.62)" xlink:href="#use23493"/>
+  <use id="use23501" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="translate(-4.2358,-1.3033)" xlink:href="#path23475"/>
+  <use style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="translate(0.44802,2.6881)" xlink:href="#use23501"/>
+  <use id="use23505" style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="translate(-4.7246)" xlink:href="#use23485"/>
+  <use style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="translate(0.69239,4.1136)" xlink:href="#use23505"/>
+  <use style="fill:url(#linearGradient19282)" width="744.09" height="1052.4" x="0" y="0" transform="translate(-0.73484,-1.0442)" xlink:href="#use23477"/>
  </g>
 </svg>

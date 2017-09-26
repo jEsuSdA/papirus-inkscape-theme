@@ -1,126 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-  xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:cc="http://creativecommons.org/ns#"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:svg="http://www.w3.org/2000/svg"
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-  width="16.001"
-  height="16"
-  id="svg15638"
-  version="1.1"
-  inkscape:version="0.92.2 (unknown)"
-  sodipodi:docname="path-mode-spiro.svg"
-  viewBox="0 0 16.001 16">
- <title
-   id="title9623">Inkscape Icon Theme</title>
- <defs
-   id="defs15640">
-  <!--<inkscape:path-effect effect="spiro" id="path-effect36695" is_visible="true" />-->
-  <linearGradient
-    id="linearGradient19282"
-    osb:paint="solid"
-    gradientTransform="matrix(0,0,0,0,-1.1034e8,-6316300)">
-   <stop
-     style="stop-color:#666666;stop-opacity:1"
-     offset="0"
-     id="stop19284" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16.001" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1034e8,-6316300)" osb:paint="solid">
+   <stop style="stop-color:#666666" offset="0"/>
   </linearGradient>
  </defs>
- <sodipodi:namedview
-   id="base"
-   pagecolor="#f2f2f2"
-   bordercolor="#666666"
-   borderopacity="1.0"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:zoom="0.76028"
-   inkscape:cx="-558.1"
-   inkscape:cy="-229.02"
-   inkscape:document-units="px"
-   inkscape:current-layer="layer1"
-   showgrid="false"
-   inkscape:window-width="1280"
-   inkscape:window-height="960"
-   inkscape:window-x="0"
-   inkscape:window-y="27"
-   inkscape:window-maximized="1"
-   inkscape:snap-bbox="true"
-   inkscape:bbox-paths="false"
-   inkscape:bbox-nodes="true"
-   inkscape:snap-global="false"
-   showguides="false"
-   inkscape:guide-bbox="true"
-   inkscape:snap-nodes="false"
-   inkscape:snap-object-midpoints="false"
-   inkscape:snap-grids="true"
-   inkscape:snap-to-guides="true"
-   borderlayer="true"
-   inkscape:showpageshadow="false"
-   showborder="true"
-   inkscape:snap-bbox-edge-midpoints="false"
-   inkscape:object-nodes="true"
-   inkscape:snap-intersection-paths="false"
-   inkscape:snap-center="true">
-  <inkscape:grid
-    type="xygrid"
-    id="grid15646"
-    empspacing="5"
-    visible="true"
-    enabled="true"
-    snapvisiblegridlinesonly="true"
-    originx="-919"
-    originy="-599" />
- </sodipodi:namedview>
- <metadata
-   id="metadata15643">
-  <rdf:RDF>
-   <cc:Work
-     rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type
-      rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title>Inkscape Icon Theme</dc:title>
-    <dc:creator>
-     <cc:Agent>
-      <dc:title>Barbara Muraus</dc:title>
-     </cc:Agent>
-    </dc:creator>
-    <dc:contributor>
-     <cc:Agent>
-      <dc:title>Jakub Steiner, Josh Andler</dc:title>
-     </cc:Agent>
-    </dc:contributor>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g
-   inkscape:label="Layer 1"
-   inkscape:groupmode="layer"
-   id="layer1"
-   transform="translate(-919,-557.36)">
-  <rect
-    style="fill:none;stroke-width:0.99946"
-    id="rect21233"
-    width="15.983"
-    height="16"
-    x="919"
-    y="557.36" />
-  <path
-    inkscape:connector-curvature="0"
-    style="color:#000000;fill:none;stroke:url(#linearGradient19282);stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-    d="M 923.7,568.42 C 921.78,568.16 920.17,566.36 920.02,564.29 919.81,562.22 922.29,560.03 924.13,559.39 925.94,558.68 926.73,560.22 927.74,561.99 928.38,563.02 928.18,563.67 928.02,564.87 927.86,566.08 928.72,567.4 929.73,568.02 930.99,568.88 932.96,568.35 933.65,566.93 934.41,565.55 934.25,563.97 932.9,563.29"
-    id="path6229"
-    sodipodi:nodetypes="cccccccs">
-   <desc
-     id="desc6929">
-inkscape:path-effect=&quot;#path-effect36695&quot; striped for faster load
-</desc>
+ <g transform="translate(-919,-557.36)">
+  <rect style="fill:none" width="15.983" height="16" x="919" y="557.36"/>
+  <path style="fill:none;stroke:url(#linearGradient19282);stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 923.7,568.42 C 921.78,568.16 920.17,566.36 920.02,564.29 919.81,562.22 922.29,560.03 924.13,559.39 925.94,558.68 926.73,560.22 927.74,561.99 928.38,563.02 928.18,563.67 928.02,564.87 927.86,566.08 928.72,567.4 929.73,568.02 930.99,568.88 932.96,568.35 933.65,566.93 934.41,565.55 934.25,563.97 932.9,563.29">
+   <desc>
+    inkscape:path-effect=&quot;#path-effect36695&quot; striped for faster load
+   </desc>
   </path>
  </g>
 </svg>

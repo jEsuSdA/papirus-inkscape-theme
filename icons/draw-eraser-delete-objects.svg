@@ -1,130 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-  xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:cc="http://creativecommons.org/ns#"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:svg="http://www.w3.org/2000/svg"
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-  width="16"
-  height="16"
-  id="svg15638"
-  version="1.1"
-  inkscape:version="0.92.2 (unknown)"
-  sodipodi:docname="draw-eraser-delete-objects.svg"
-  viewBox="0 0 16 16">
- <title
-   id="title9623">Inkscape Icon Theme</title>
- <defs
-   id="defs15640">
-  <!--<inkscape:path-effect effect="spiro" id="path-effect36695" is_visible="true" />-->
-  <linearGradient
-    id="linearGradient19282"
-    osb:paint="solid"
-    gradientTransform="matrix(0,0,0,0,-1.1046e8,-6315300)">
-   <stop
-     style="stop-color:#666666;stop-opacity:1"
-     offset="0"
-     id="stop19284" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6315300)" osb:paint="solid">
+   <stop style="stop-color:#666666" offset="0"/>
   </linearGradient>
  </defs>
- <sodipodi:namedview
-   id="base"
-   pagecolor="#f2f2f2"
-   bordercolor="#666666"
-   borderopacity="1.0"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:zoom="0.76028"
-   inkscape:cx="13.9"
-   inkscape:cy="204.98"
-   inkscape:document-units="px"
-   inkscape:current-layer="layer1"
-   showgrid="false"
-   inkscape:window-width="1280"
-   inkscape:window-height="960"
-   inkscape:window-x="0"
-   inkscape:window-y="27"
-   inkscape:window-maximized="1"
-   inkscape:snap-bbox="true"
-   inkscape:bbox-paths="false"
-   inkscape:bbox-nodes="true"
-   inkscape:snap-global="false"
-   showguides="false"
-   inkscape:guide-bbox="true"
-   inkscape:snap-nodes="false"
-   inkscape:snap-object-midpoints="false"
-   inkscape:snap-grids="true"
-   inkscape:snap-to-guides="true"
-   borderlayer="true"
-   inkscape:showpageshadow="false"
-   showborder="true"
-   inkscape:snap-bbox-edge-midpoints="false"
-   inkscape:object-nodes="true"
-   inkscape:snap-intersection-paths="false"
-   inkscape:snap-center="true">
-  <inkscape:grid
-    type="xygrid"
-    id="grid15646"
-    empspacing="5"
-    visible="true"
-    enabled="true"
-    snapvisiblegridlinesonly="true"
-    originx="-347"
-    originy="-165" />
- </sodipodi:namedview>
- <metadata
-   id="metadata15643">
-  <rdf:RDF>
-   <cc:Work
-     rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type
-      rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title>Inkscape Icon Theme</dc:title>
-    <dc:creator>
-     <cc:Agent>
-      <dc:title>Barbara Muraus</dc:title>
-     </cc:Agent>
-    </dc:creator>
-    <dc:contributor>
-     <cc:Agent>
-      <dc:title>Jakub Steiner, Josh Andler</dc:title>
-     </cc:Agent>
-    </dc:contributor>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g
-   inkscape:label="Layer 1"
-   inkscape:groupmode="layer"
-   id="layer1"
-   transform="translate(-347,-991.36)">
-  <rect
-    y="991.36"
-    x="347"
-    height="16"
-    width="16"
-    id="rect16317"
-    style="fill:none" />
-  <path
-    id="path16321"
-    d="M 354,998.36 C 353.45,998.36 353,998.81 353,999.36 V 1006.4 C 353,1006.9 353.45,1007.4 354,1007.4 H 361 C 361.55,1007.4 362,1006.9 362,1006.4 V 999.36 C 362,998.81 361.55,998.36 361,998.36 Z M 355.91,999.08 357.69,1001.2 359.47,999.08 361,1000.4 358.97,1002.8 361,1005.3 359.47,1006.5 357.69,1004.4 355.91,1006.5 354.37,1005.3 356.41,1002.8 354.37,1000.4 Z"
-    style="fill:url(#linearGradient19282)"
-    inkscape:connector-curvature="0" />
-  <path
-    inkscape:connector-curvature="0"
-    style="fill:url(#linearGradient19282)"
-    d="M 347,994.36 V 995.36 1004.4 1005.4 H 348 352 V 1004.4 H 348 V 995.36 H 359 V 997.36 H 360 V 994.36 Z"
-    id="rect16326" />
-  <path
-    inkscape:connector-curvature="0"
-    style="opacity:0.3;fill:url(#linearGradient19282)"
-    d="M 349,996.36 V 997.36 1003.4 H 352 V 997.36 H 358 V 996.36 H 352 Z"
-    id="rect16402" />
+ <g transform="translate(-347,-991.36)">
+  <rect style="fill:none" width="16" height="16" x="347" y="991.36"/>
+  <path style="fill:url(#linearGradient19282)" d="M 354,998.36 C 353.45,998.36 353,998.81 353,999.36 V 1006.4 C 353,1006.9 353.45,1007.4 354,1007.4 H 361 C 361.55,1007.4 362,1006.9 362,1006.4 V 999.36 C 362,998.81 361.55,998.36 361,998.36 Z M 355.91,999.08 357.69,1001.2 359.47,999.08 361,1000.4 358.97,1002.8 361,1005.3 359.47,1006.5 357.69,1004.4 355.91,1006.5 354.37,1005.3 356.41,1002.8 354.37,1000.4 Z"/>
+  <path style="fill:url(#linearGradient19282)" d="M 347,994.36 V 995.36 1004.4 1005.4 H 348 352 V 1004.4 H 348 V 995.36 H 359 V 997.36 H 360 V 994.36 Z"/>
+  <path style="opacity:0.3;fill:url(#linearGradient19282)" d="M 349,996.36 V 997.36 1003.4 H 352 V 997.36 H 358 V 996.36 H 352 Z"/>
  </g>
 </svg>

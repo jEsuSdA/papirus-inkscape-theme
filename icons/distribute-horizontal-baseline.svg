@@ -1,148 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-  xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:cc="http://creativecommons.org/ns#"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:svg="http://www.w3.org/2000/svg"
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-  width="24"
-  height="24"
-  id="svg15638"
-  version="1.1"
-  inkscape:version="0.92.2 (unknown)"
-  sodipodi:docname="distribute-horizontal-baseline.svg"
-  viewBox="0 0 24 24">
- <title
-   id="title9623">Inkscape Icon Theme</title>
- <defs
-   id="defs15640">
-  <!--<inkscape:path-effect effect="spiro" id="path-effect36695" is_visible="true" />-->
-  <linearGradient
-    id="linearGradient19282"
-    osb:paint="solid"
-    gradientTransform="matrix(0,0,0,0,-1.1046e8,-6316300)">
-   <stop
-     style="stop-color:#666666;stop-opacity:1"
-     offset="0"
-     id="stop19284" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6316300)" osb:paint="solid">
+   <stop style="stop-color:#666666" offset="0"/>
   </linearGradient>
  </defs>
- <sodipodi:namedview
-   id="base"
-   pagecolor="#f2f2f2"
-   bordercolor="#666666"
-   borderopacity="1.0"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:zoom="0.76028"
-   inkscape:cx="-683.1"
-   inkscape:cy="6.9804"
-   inkscape:document-units="px"
-   inkscape:current-layer="layer1"
-   showgrid="false"
-   inkscape:window-width="1280"
-   inkscape:window-height="960"
-   inkscape:window-x="0"
-   inkscape:window-y="27"
-   inkscape:window-maximized="1"
-   inkscape:snap-bbox="true"
-   inkscape:bbox-paths="false"
-   inkscape:bbox-nodes="true"
-   inkscape:snap-global="false"
-   showguides="false"
-   inkscape:guide-bbox="true"
-   inkscape:snap-nodes="false"
-   inkscape:snap-object-midpoints="false"
-   inkscape:snap-grids="true"
-   inkscape:snap-to-guides="true"
-   borderlayer="true"
-   inkscape:showpageshadow="false"
-   showborder="true"
-   inkscape:snap-bbox-edge-midpoints="false"
-   inkscape:object-nodes="true"
-   inkscape:snap-intersection-paths="false"
-   inkscape:snap-center="true">
-  <inkscape:grid
-    type="xygrid"
-    id="grid15646"
-    empspacing="5"
-    visible="true"
-    enabled="true"
-    snapvisiblegridlinesonly="true"
-    originx="-1044"
-    originy="-363" />
- </sodipodi:namedview>
- <metadata
-   id="metadata15643">
-  <rdf:RDF>
-   <cc:Work
-     rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type
-      rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title>Inkscape Icon Theme</dc:title>
-    <dc:creator>
-     <cc:Agent>
-      <dc:title>Barbara Muraus</dc:title>
-     </cc:Agent>
-    </dc:creator>
-    <dc:contributor>
-     <cc:Agent>
-      <dc:title>Jakub Steiner, Josh Andler</dc:title>
-     </cc:Agent>
-    </dc:contributor>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g
-   inkscape:label="Layer 1"
-   inkscape:groupmode="layer"
-   id="layer1"
-   transform="translate(-1044,-785.36)">
-  <rect
-    transform="rotate(90)"
-    y="-1068"
-    x="785.36"
-    height="24"
-    width="24"
-    id="rect18962"
-    style="fill:none" />
-  <path
-    inkscape:connector-curvature="0"
-    sodipodi:nodetypes="cccccsccccccccccc"
-    style="fill:url(#linearGradient19282)"
-    d="M 1058.2,794.62 C 1059,793.94 1060.3,794.18 1060.9,794.96 1061.9,796.15 1062.2,797.66 1062.5,799.08 1062.8,800.28 1063,800.98 1063.1,802.21 1063.9,800.65 1064.7,799.51 1064.8,797.76 1064.8,796.87 1064.2,796.12 1063.9,795.34 1063.6,794.68 1064.4,794 1065.1,794.21 1065.9,794.37 1066.1,795.31 1066.1,795.99 1066,797.99 1065.2,799.95 1064.3,801.78 1063.1,804.2 1061.5,806.44 1059.2,808.14 1058.4,808.76 1056.2,809.48 1055.1,809.11 1053.1,808.11 1053.1,806.13 1055.1,806.13 1055.8,805.8 1057.6,807.37 1058.4,807.34 1059.6,807.33 1060.5,806.29 1060.8,805.3 1061.1,803.99 1060.8,802.64 1060.6,801.33 1060.3,799.63 1059.9,797.9 1059,796.36 1058.8,795.77 1057.4,795.41 1058.2,794.62 Z"
-    id="path18964" />
-  <path
-    sodipodi:nodetypes="ccscscccccccccscscscccsccccccc"
-    inkscape:connector-curvature="0"
-    id="path18967"
-    d="M 1050.3,798.8 C 1049.8,798.8 1049.4,798.89 1049.1,799.06 1048.8,799.24 1048.7,799.49 1048.7,799.83 1048.7,800.14 1048.8,800.39 1049,800.57 1049.2,800.74 1049.6,800.83 1050,800.83 1050.5,800.83 1050.9,800.66 1051.2,800.33 1051.6,800 1051.7,799.58 1051.7,799.08 V 798.8 H 1050.3 M 1054,797.36 V 802.36 H 1052 V 801.22 C 1051.6,801.69 1051.2,802.03 1050.8,802.25 1050.4,802.46 1049.8,802.56 1049.2,802.56 1048.3,802.56 1047.3,802.23 1046.8,801.77 1046.3,801.3 1046,800.7 1046,799.96 1046,799.05 1046.3,798.39 1047,797.97 1047.7,797.55 1048.7,797.33 1050.2,797.33 H 1051.7 V 797.14 C 1051.7,796.75 1051.6,796.47 1051.2,796.29 1050.9,796.11 1050.4,796.01 1049.7,796.01 1049.1,796.01 1048.6,796.07 1048.1,796.17 1047.6,796.28 1047.2,796.44 1046.7,796.65 V 794.77 C 1047.3,794.64 1047.9,794.54 1048.4,794.48 1049,794.41 1049.6,794.38 1050.2,794.38 1051.7,794.38 1052.2,794.46 1052.8,795.01 1053.5,795.55 1054,796.13 1054,797.36"
-    style="fill:url(#linearGradient19282)" />
-  <rect
-    y="785.36"
-    x="1045"
-    height="24"
-    width="1"
-    id="rect18969"
-    style="fill:url(#linearGradient19282)" />
-  <rect
-    style="fill:url(#linearGradient19282)"
-    id="rect18981"
-    width="1"
-    height="24"
-    x="1057"
-    y="785.36" />
-  <path
-    sodipodi:nodetypes="ccccccccccc"
-    inkscape:connector-curvature="0"
-    id="path18995"
-    d="M 1049,791.36 1046,788.36 1049,785.36 V 787.36 H 1054 V 785.36 L 1057,788.36 1054,791.36 V 789.36 H 1049 Z"
-    style="fill:url(#linearGradient19282);fill-rule:evenodd" />
+ <g transform="translate(-1044,-785.36)">
+  <rect style="fill:none" width="24" height="24" x="785.36" y="-1068" transform="rotate(90)"/>
+  <path style="fill:url(#linearGradient19282)" d="M 1058.2,794.62 C 1059,793.94 1060.3,794.18 1060.9,794.96 1061.9,796.15 1062.2,797.66 1062.5,799.08 1062.8,800.28 1063,800.98 1063.1,802.21 1063.9,800.65 1064.7,799.51 1064.8,797.76 1064.8,796.87 1064.2,796.12 1063.9,795.34 1063.6,794.68 1064.4,794 1065.1,794.21 1065.9,794.37 1066.1,795.31 1066.1,795.99 1066,797.99 1065.2,799.95 1064.3,801.78 1063.1,804.2 1061.5,806.44 1059.2,808.14 1058.4,808.76 1056.2,809.48 1055.1,809.11 1053.1,808.11 1053.1,806.13 1055.1,806.13 1055.8,805.8 1057.6,807.37 1058.4,807.34 1059.6,807.33 1060.5,806.29 1060.8,805.3 1061.1,803.99 1060.8,802.64 1060.6,801.33 1060.3,799.63 1059.9,797.9 1059,796.36 1058.8,795.77 1057.4,795.41 1058.2,794.62 Z"/>
+  <path style="fill:url(#linearGradient19282)" d="M 1050.3,798.8 C 1049.8,798.8 1049.4,798.89 1049.1,799.06 1048.8,799.24 1048.7,799.49 1048.7,799.83 1048.7,800.14 1048.8,800.39 1049,800.57 1049.2,800.74 1049.6,800.83 1050,800.83 1050.5,800.83 1050.9,800.66 1051.2,800.33 1051.6,800 1051.7,799.58 1051.7,799.08 V 798.8 H 1050.3 M 1054,797.36 V 802.36 H 1052 V 801.22 C 1051.6,801.69 1051.2,802.03 1050.8,802.25 1050.4,802.46 1049.8,802.56 1049.2,802.56 1048.3,802.56 1047.3,802.23 1046.8,801.77 1046.3,801.3 1046,800.7 1046,799.96 1046,799.05 1046.3,798.39 1047,797.97 1047.7,797.55 1048.7,797.33 1050.2,797.33 H 1051.7 V 797.14 C 1051.7,796.75 1051.6,796.47 1051.2,796.29 1050.9,796.11 1050.4,796.01 1049.7,796.01 1049.1,796.01 1048.6,796.07 1048.1,796.17 1047.6,796.28 1047.2,796.44 1046.7,796.65 V 794.77 C 1047.3,794.64 1047.9,794.54 1048.4,794.48 1049,794.41 1049.6,794.38 1050.2,794.38 1051.7,794.38 1052.2,794.46 1052.8,795.01 1053.5,795.55 1054,796.13 1054,797.36"/>
+  <rect style="fill:url(#linearGradient19282)" width="1" height="24" x="1045" y="785.36"/>
+  <rect style="fill:url(#linearGradient19282)" width="1" height="24" x="1057" y="785.36"/>
+  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 1049,791.36 1046,788.36 1049,785.36 V 787.36 H 1054 V 785.36 L 1057,788.36 1054,791.36 V 789.36 H 1049 Z"/>
  </g>
 </svg>

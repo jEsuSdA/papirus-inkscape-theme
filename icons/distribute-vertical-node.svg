@@ -1,183 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-  xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:cc="http://creativecommons.org/ns#"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:svg="http://www.w3.org/2000/svg"
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-  width="24.006"
-  height="24.005"
-  id="svg15638"
-  version="1.1"
-  inkscape:version="0.92.2 (unknown)"
-  sodipodi:docname="distribute-vertical-node.svg"
-  viewBox="0 0 24.006 24.005">
- <title
-   id="title9623">Inkscape Icon Theme</title>
- <defs
-   id="defs15640">
-  <!--<inkscape:path-effect effect="spiro" id="path-effect36695" is_visible="true" />-->
-  <linearGradient
-    id="linearGradient19282"
-    osb:paint="solid"
-    gradientTransform="matrix(0,0,0,0,-1.1046e8,-6316300)">
-   <stop
-     style="stop-color:#666666;stop-opacity:1"
-     offset="0"
-     id="stop19284" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="24.006" height="24.005" version="1.1" viewBox="0 0 24.01 24">
+ <defs>
+  <linearGradient id="linearGradient19282" gradientTransform="matrix(0,0,0,0,-1.1046e8,-6316300)" osb:paint="solid">
+   <stop style="stop-color:#666666" offset="0"/>
   </linearGradient>
  </defs>
- <sodipodi:namedview
-   id="base"
-   pagecolor="#f2f2f2"
-   bordercolor="#666666"
-   borderopacity="1.0"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:zoom="0.76028"
-   inkscape:cx="-759.1"
-   inkscape:cy="82.98"
-   inkscape:document-units="px"
-   inkscape:current-layer="layer1"
-   showgrid="false"
-   inkscape:window-width="1280"
-   inkscape:window-height="960"
-   inkscape:window-x="0"
-   inkscape:window-y="27"
-   inkscape:window-maximized="1"
-   inkscape:snap-bbox="true"
-   inkscape:bbox-paths="false"
-   inkscape:bbox-nodes="true"
-   inkscape:snap-global="false"
-   showguides="false"
-   inkscape:guide-bbox="true"
-   inkscape:snap-nodes="false"
-   inkscape:snap-object-midpoints="false"
-   inkscape:snap-grids="true"
-   inkscape:snap-to-guides="true"
-   borderlayer="true"
-   inkscape:showpageshadow="false"
-   showborder="true"
-   inkscape:snap-bbox-edge-midpoints="false"
-   inkscape:object-nodes="true"
-   inkscape:snap-intersection-paths="false"
-   inkscape:snap-center="true">
-  <inkscape:grid
-    type="xygrid"
-    id="grid15646"
-    empspacing="5"
-    visible="true"
-    enabled="true"
-    snapvisiblegridlinesonly="true"
-    originx="-1120"
-    originy="-287" />
- </sodipodi:namedview>
- <metadata
-   id="metadata15643">
-  <rdf:RDF>
-   <cc:Work
-     rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type
-      rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title>Inkscape Icon Theme</dc:title>
-    <dc:creator>
-     <cc:Agent>
-      <dc:title>Barbara Muraus</dc:title>
-     </cc:Agent>
-    </dc:creator>
-    <dc:contributor>
-     <cc:Agent>
-      <dc:title>Jakub Steiner, Josh Andler</dc:title>
-     </cc:Agent>
-    </dc:contributor>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g
-   inkscape:label="Layer 1"
-   inkscape:groupmode="layer"
-   id="layer1"
-   transform="translate(-1120,-861.36)">
-  <path
-    inkscape:connector-curvature="0"
-    style="fill:none;stroke:url(#linearGradient19282);stroke-linecap:square"
-    d="M 1131.5,861.86 V 884.86 884.86"
-    id="path19715" />
-  <path
-    inkscape:connector-curvature="0"
-    style="fill:none;stroke:url(#linearGradient19282);stroke-width:0.99966;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-    d="M 1120.5,861.86 C 1123.5,865.36 1139.5,863.46 1138,869.36 1137,873.36 1121,870.36 1120.5,877.86 1120.1,883.35 1137.5,880.36 1143.5,884.36"
-    id="path19717"
-    sodipodi:nodetypes="cssc" />
-  <rect
-    y="862.36"
-    x="1129"
-    height="5"
-    width="5"
-    id="rect19719"
-    style="color:#000000;fill:url(#linearGradient19282);fill-rule:evenodd;stroke-width:1" />
-  <rect
-    style="color:#000000;fill:url(#linearGradient19282);fill-rule:evenodd;stroke-width:1"
-    id="rect19721"
-    width="5"
-    height="5"
-    x="1129"
-    y="870.36" />
-  <rect
-    y="879.36"
-    x="1129"
-    height="5"
-    width="5"
-    id="rect19723"
-    style="color:#000000;fill:url(#linearGradient19282);fill-rule:evenodd;stroke-width:1" />
-  <rect
-    y="861.36"
-    x="1120"
-    height="24"
-    width="24"
-    id="rect19725"
-    style="fill:none" />
-  <rect
-    style="fill:url(#linearGradient19282)"
-    id="rect19727"
-    width="10"
-    height="1"
-    x="1134"
-    y="864.36"
-    ry="0" />
-  <rect
-    ry="0"
-    y="872.36"
-    x="1134"
-    height="1"
-    width="10"
-    id="rect19729"
-    style="fill:url(#linearGradient19282)" />
-  <rect
-    style="fill:url(#linearGradient19282)"
-    id="rect19731"
-    width="10"
-    height="1"
-    x="1134"
-    y="881.36"
-    ry="0" />
-  <path
-    sodipodi:nodetypes="ccccccccccc"
-    id="path5344"
-    d="M 1140,875.36 1141.5,873.36 1143,875.36 H 1142 V 879.36 H 1143 L 1141.5,881.36 1140,879.36 H 1141 V 875.36 Z"
-    style="fill:url(#linearGradient19282);fill-rule:evenodd"
-    inkscape:connector-curvature="0" />
-  <path
-    inkscape:connector-curvature="0"
-    style="fill:url(#linearGradient19282);fill-rule:evenodd"
-    d="M 1140,867.36 1141.5,865.36 1143,867.36 H 1142 V 870.36 H 1143 L 1141.5,872.36 1140,870.36 H 1141 V 867.36 Z"
-    id="path19903"
-    sodipodi:nodetypes="ccccccccccc" />
+ <g transform="translate(-1120,-861.36)">
+  <path style="fill:none;stroke:url(#linearGradient19282);stroke-linecap:square" d="M 1131.5,861.86 V 884.86 884.86"/>
+  <path style="fill:none;stroke:url(#linearGradient19282);stroke-width:0.99966;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0" d="M 1120.5,861.86 C 1123.5,865.36 1139.5,863.46 1138,869.36 1137,873.36 1121,870.36 1120.5,877.86 1120.1,883.35 1137.5,880.36 1143.5,884.36"/>
+  <rect style="fill:url(#linearGradient19282);fill-rule:evenodd" width="5" height="5" x="1129" y="862.36"/>
+  <rect style="fill:url(#linearGradient19282);fill-rule:evenodd" width="5" height="5" x="1129" y="870.36"/>
+  <rect style="fill:url(#linearGradient19282);fill-rule:evenodd" width="5" height="5" x="1129" y="879.36"/>
+  <rect style="fill:none" width="24" height="24" x="1120" y="861.36"/>
+  <rect style="fill:url(#linearGradient19282)" width="10" height="1" x="1134" y="864.36" ry="0"/>
+  <rect style="fill:url(#linearGradient19282)" width="10" height="1" x="1134" y="872.36" ry="0"/>
+  <rect style="fill:url(#linearGradient19282)" width="10" height="1" x="1134" y="881.36" ry="0"/>
+  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 1140,875.36 1141.5,873.36 1143,875.36 H 1142 V 879.36 H 1143 L 1141.5,881.36 1140,879.36 H 1141 V 875.36 Z"/>
+  <path style="fill:url(#linearGradient19282);fill-rule:evenodd" d="M 1140,867.36 1141.5,865.36 1143,867.36 H 1142 V 870.36 H 1143 L 1141.5,872.36 1140,870.36 H 1141 V 867.36 Z"/>
  </g>
 </svg>
