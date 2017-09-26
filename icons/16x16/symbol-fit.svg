@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <g transform="translate(-618,-805.36)">
+  <rect style="fill:none" width="16" height="16" x="618" y="805.36"/>
+  <rect style="fill:none;stroke:#666666" width="15" height="15" x="618.5" y="805.86"/>
+  <path style="opacity:0.25;fill:#666666" d="M 627.5,805.86 A 9,9 0 0 1 624.86,812.22 9,9 0 0 1 618.5,814.86 L 618.5,805.86 Z"/>
+  <path style="fill:none;stroke:#666666" d="M 627.5,805.86 A 9,9 0 0 1 624.86,812.22 9,9 0 0 1 618.5,814.86"/>
+  <circle style="fill:none;stroke:#666666;stroke-dasharray:1, 1" cx="626" cy="813.36" r="4.5"/>
+ </g>
+</svg>

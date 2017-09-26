@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <g transform="translate(-285,-558.4)">
+  <rect style="fill:none" width="24" height="24" x="285" y="558.4"/>
+  <path style="fill:none;stroke:#666666;stroke-width:1px" d="M 287.5,580.4 C 287,572.4 288.14,568.04 291.46,565 294.4,562.31 299,560.4 307,560.9"/>
+  <rect style="fill:#666666;fill-rule:evenodd" width="4" height="4" x="289" y="562.36"/>
+  <rect style="fill:#666666;fill-rule:evenodd" width="3" height="3" x="286" y="578.36"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 294,567.36 301.8,581.4 307,576.14 Z"/>
+  <use style="fill:#666666" width="1250" height="1250" x="0" y="0" transform="translate(19,-19)" xlink:href="#rect10541"/>
+ </g>
+</svg>

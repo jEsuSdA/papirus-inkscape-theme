@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <g transform="translate(-498,-805.36)">
+  <rect style="fill:none" width="16" height="16" x="498" y="805.36"/>
+  <circle style="opacity:0.3;fill:#666666" cx="508" cy="815.36" r="4.5"/>
+  <circle style="fill:none;stroke:#666666" cx="508" cy="815.36" r="4.5"/>
+  <path style="fill:none;stroke:#666666;stroke-width:2" d="M 500,815.36 H 508 V 807.36"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 505,808.36 H 511 L 508,805.36 Z"/>
+ </g>
+</svg>

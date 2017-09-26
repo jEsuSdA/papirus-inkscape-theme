@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <g transform="translate(-1120,-632.36)">
+  <rect style="fill:none" width="24" height="24" x="-656.36" y="-1144" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="fill:#666666" width="1" height="24" x="-645.36" y="-1144" transform="matrix(0,-1,-1,0,0,0)"/>
+  <path style="fill:#666666" d="M 1133,636.36 H 1128 V 643.36 H 1133 Z M 1133,646.36 H 1128 V 653.36 H 1133 Z"/>
+  <path style="fill:#666666" d="M 1138,639.36 H 1135 V 643.36 H 1138 Z M 1138,646.36 H 1135 V 650.36 H 1138 Z"/>
+  <path style="fill:#666666" d="M 1144,637.36 H 1140 V 643.36 H 1144 Z M 1144,646.36 H 1140 V 652.36 H 1144 Z"/>
+  <path style="fill:#666666" d="M 1123,646.36 1126,649.36 H 1120 Z"/>
+  <rect style="fill:#666666" width="7" height="2" x="649.36" y="-1124" transform="rotate(90)"/>
+  <path style="fill:#666666" d="M 1123,643.36 1126,640.36 H 1120 Z"/>
+  <rect style="fill:#666666" width="7" height="2" x="-640.36" y="-1124" transform="matrix(0,-1,-1,0,0,0)"/>
+ </g>
+</svg>

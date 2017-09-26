@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <g transform="translate(-1159,-708.36)">
+  <path style="fill:#666666" d="M 1173,708.36 V 709.06 725.67 726.36 H 1174 V 725.67 709.06 708.36 Z"/>
+  <path style="fill:#666666" d="M 1161,708.36 V 709.29 731.44 732.36 H 1162 V 731.44 709.29 708.36 Z"/>
+  <rect style="fill:#666666" width="14.942" height="3" x="717.36" y="1159" transform="matrix(0,1,1,0,0,0)"/>
+  <rect style="fill:#666666" width="4" height="9.018" x="1173" y="717.36"/>
+  <rect style="fill:none" width="24" height="24" x="1159" y="708.36"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 1165,715.36 1162,712.36 1165,709.36 V 711.36 H 1170 V 709.36 L 1173,712.36 1170,715.36 V 713.36 H 1165 Z"/>
+  <path style="fill:#666666" d="M 1176,708.36 V 709.06 725.67 726.36 H 1177 V 725.67 709.06 708.36 Z"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 1180,715.36 1177,712.36 1180,709.36 V 711.36 H 1183 V 713.36 H 1180 Z"/>
+ </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <g transform="translate(-708.94,-527.42)">
+  <rect style="fill:none" width="15.938" height="15.938" x="709" y="527.49"/>
+  <path style="fill:#666666" d="M 724.84,527.42 722.91,527.51 V 531.47 H 724.91 C 724.91,530.59 724.84,528.31 724.84,527.43 Z"/>
+  <rect style="fill:#666666" width="1.992" height="3.984" x="-724.91" y="-543.42" transform="scale(-1)"/>
+  <rect style="fill:#666666" width="1.992" height="3.984" x="-543.36" y="714.98" transform="rotate(-90)"/>
+  <rect style="fill:#666666" width="3.984" height="1.992" x="-724.91" y="-543.42" transform="scale(-1)"/>
+  <rect style="fill:#666666" width="1.992" height="3.984" x="-529.42" y="714.98" transform="rotate(-90)"/>
+  <rect style="fill:#666666" width="3.984" height="1.992" x="-724.94" y="-529.42" transform="scale(-1)"/>
+  <rect style="fill:#666666" width="1.992" height="9.961" x="715.97" y="-540.37" transform="scale(1,-1)"/>
+  <path style="fill:#666666" d="M 709.09,527.42 711.02,527.51 V 531.47 H 709.03 C 709.03,530.59 709.09,528.31 709.09,527.43 Z"/>
+  <rect style="fill:#666666" width="3.984" height="1.992" x="709" y="-529.42" transform="scale(1,-1)"/>
+  <path style="fill:#666666" d="M 708.94,541.43 709.02,543.36 H 712.98 V 541.37 C 712.1,541.37 709.82,541.43 708.94,541.43 Z"/>
+  <rect style="fill:#666666" width="3.984" height="1.992" x="539.35" y="-710.99" transform="rotate(90)"/>
+  <rect style="fill:#666666" width="9.961" height="1.992" x="711.99" y="534.4"/>
+  <rect style="fill:#666666" width="1.992" height="3.984" x="709" y="533.4"/>
+  <rect style="fill:#666666" width="1.992" height="3.984" x="722.95" y="533.4"/>
+ </g>
+</svg>

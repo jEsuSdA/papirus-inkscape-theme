@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <g transform="translate(-105,-707.36)">
+  <rect style="fill:none" width="16" height="16" x="105" y="-723.36" rx="0" ry="1" transform="scale(1,-1)"/>
+  <path style="opacity:0.3;fill:#666666" d="M 117,714.36 118,713.36 120,711.36 H 115 V 712.36 713.36 714.36 Z M 111,714.36 V 713.36 712.36 711.36 H 109 L 106,714.36 Z"/>
+  <path style="fill:#666666" d="M 120,720.36 117,723.36 H 106 L 109,720.36 Z"/>
+  <path style="fill:#666666" d="M 112,709.36 H 114 V 716.36 H 116 L 113,719.35 110,716.36 H 112 Z"/>
+  <path style="opacity:0.3;fill:#666666" d="M 117,710.36 120,707.36 H 109 L 106,710.36 H 111 V 708.36 H 115 V 710.36 Z"/>
+ </g>
+</svg>

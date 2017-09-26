@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <g transform="translate(-679,-558.36)">
+  <rect style="fill:none" width="16" height="16" x="679" y="558.36"/>
+  <path style="fill:#666666" d="M 692.59,560.47 C 689,560.47 686.11,561.46 684.12,563.41 682.14,565.35 681.12,568.22 681.12,571.81 A 0.50005,0.50005 0 1 0 682.12,571.81 C 682.12,568.41 683.06,565.85 684.81,564.12 686.57,562.4 689.18,561.47 692.59,561.47 A 0.50005,0.50005 0 1 0 692.59,560.47 Z"/>
+  <rect style="fill:#666666;fill-rule:evenodd" width="4" height="4" x="680" y="569.36"/>
+  <rect style="fill:#666666;fill-rule:evenodd" width="4" height="4" x="690" y="559.36"/>
+ </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <g transform="translate(-979,-527.36)">
+  <rect style="fill:none" width="16" height="16" x="979" y="527.36"/>
+  <rect style="fill:#666666" width="4" height="4" x="1074.1" y="-314.63" transform="rotate(45)"/>
+  <path style="fill:none;stroke:#666666;stroke-width:1px" d="M 981,539.86 H 995"/>
+  <path style="fill:#666666" d="M 991.46,536.36 H 987.02 L 986.32,538.36 H 983.47 L 987.54,527.36 H 990.93 L 995,538.36 H 992.15 Z M 987.73,534.32 H 990.74 L 989.24,529.94 Z"/>
+ </g>
+</svg>

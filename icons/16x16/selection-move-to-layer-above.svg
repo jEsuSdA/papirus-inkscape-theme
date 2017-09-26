@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <g transform="translate(-105,-607.36)">
+  <rect style="fill:none" width="16" height="16" x="105" y="607.36"/>
+  <path style="fill:#666666" d="M 107,611.36 109,608.36 H 119 L 117,611.36 Z"/>
+  <path style="fill:#666666" d="M 112,617.36 H 114 V 615.36 H 116 L 113,612.37 110,615.36 H 112 Z"/>
+  <rect style="fill:#666666" width="1" height="1" x="105" y="616.36" ry="0"/>
+  <rect style="fill:#666666" width="1" height="1" x="107" y="616.36" ry="0"/>
+  <rect style="fill:#666666" width="1" height="1" x="109" y="616.36" ry="0"/>
+  <path style="fill:#666666" d="M 107,621.36 C 107,621.36 107,621.36 109,618.36 H 118 L 116,621.36 Z"/>
+  <rect style="fill:#666666" width="1" height="1" x="117" y="616.36" ry="0"/>
+  <rect style="fill:#666666" width="1" height="1" x="119" y="616.36" ry="0"/>
+  <rect style="fill:#666666" width="1" height="1" x="105" y="622.36" ry="0"/>
+  <rect style="fill:#666666" width="1" height="1" x="107" y="622.36" ry="0"/>
+  <rect style="fill:#666666" width="1" height="1" x="105" y="618.36" ry="0"/>
+  <rect style="fill:#666666" width="1" height="1" x="105" y="620.36" ry="0"/>
+  <rect style="fill:#666666" width="1" height="1" x="109" y="622.36" ry="0"/>
+  <rect style="fill:#666666" width="1" height="1" x="111" y="622.36" ry="0"/>
+  <rect style="fill:#666666" width="1" height="1" x="113" y="622.36" ry="0"/>
+  <rect style="fill:#666666" width="1" height="1" x="115" y="622.36" ry="0"/>
+  <rect style="fill:#666666" width="1" height="1" x="117" y="622.36" ry="0"/>
+  <rect style="fill:#666666" width="1" height="1" x="119" y="622.36" ry="0"/>
+  <rect style="fill:#666666" width="1" height="1" x="119" y="620.36" ry="0"/>
+  <rect style="fill:#666666" width="1" height="1" x="119" y="618.36" ry="0"/>
+ </g>
+</svg>

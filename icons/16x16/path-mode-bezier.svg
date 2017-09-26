@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <g transform="translate(-889,-557.36)">
+  <rect style="fill:none" width="16" height="16" x="889" y="557.36"/>
+  <path style="fill:#666666" d="M 903.53,558.41 C 898.14,558.07 894.93,559.4 892.87,561.28 890.54,563.43 889.73,566.53 890.06,571.91 L 891.06,571.84 C 890.73,566.59 891.46,563.9 893.53,562 895.37,560.31 898.25,559.08 903.47,559.41 Z"/>
+  <rect style="fill:#666666;fill-rule:evenodd" width="4" height="4" x="891" y="559.36"/>
+  <rect style="fill:#666666;fill-rule:evenodd" width="4" height="4" x="889" y="569.36"/>
+  <rect style="fill:#666666;fill-rule:evenodd" width="4" height="4" x="901" y="557.36"/>
+ </g>
+</svg>

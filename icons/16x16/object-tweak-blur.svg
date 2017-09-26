@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <g transform="translate(-255,-807.36)">
+  <rect style="fill:none" width="16" height="16" x="255" y="807.36"/>
+  <circle style="fill:#666666" cx="257.03" cy="809.35" r="1.341"/>
+  <circle style="fill:#666666" cx="265.89" cy="809.36" r="1.041"/>
+  <circle style="fill:#666666" cx="268.84" cy="812.39" r="1.063"/>
+  <circle style="fill:#666666" cx="268.85" cy="815.41" r="1.21"/>
+  <circle style="fill:#666666" cx="259.98" cy="809.36" r=".947"/>
+  <circle style="fill:#666666" cx="268.84" cy="809.35" r="1.341"/>
+  <circle style="fill:#666666" cx="257.02" cy="815.41" r="1.216"/>
+  <circle style="fill:#666666" cx="257.03" cy="818.44" r="1.036"/>
+  <circle style="fill:#666666" cx="262.93" cy="809.35" r="1.236"/>
+  <circle style="fill:#666666" cx="257.02" cy="812.38" r="1.064"/>
+  <circle style="fill:#666666" cx="265.88" cy="821.47" r="1.106"/>
+  <circle style="fill:#666666" cx="268.84" cy="818.44" r="1.095"/>
+  <circle style="fill:#666666" cx="257.03" cy="821.46" r="1.341"/>
+  <circle style="fill:#666666" cx="259.98" cy="821.47" r="1.046"/>
+  <circle style="fill:#666666" cx="262.94" cy="821.47" r="1.247"/>
+  <circle style="fill:#666666" cx="268.84" cy="821.46" r="1.341"/>
+  <circle style="fill:#666666" cx="257.94" cy="809.12" r="0"/>
+  <circle style="opacity:0.3;fill:none;stroke:#666666;stroke-width:0.32975" cx="260.06" cy="812.49" r="1.322"/>
+  <circle style="opacity:0.3;fill:#666666" cx="263.02" cy="812.49" r=".875"/>
+  <circle style="opacity:0.3;fill:none;stroke:#666666;stroke-width:0.32975" cx="265.94" cy="812.44" r="1.322"/>
+  <circle style="opacity:0.3;fill:#666666" cx="260.07" cy="815.49" r=".85"/>
+  <circle style="opacity:0.3;fill:none;stroke:#666666;stroke-width:0.30834" cx="263.02" cy="815.49" r="1.236"/>
+  <circle style="opacity:0.3;fill:#666666" cx="265.95" cy="815.45" r=".822"/>
+  <circle style="opacity:0.3;fill:none;stroke:#666666;stroke-width:0.32975" cx="260.06" cy="818.49" r="1.322"/>
+  <circle style="opacity:0.3;fill:#666666" cx="263.03" cy="818.5" r=".792"/>
+  <circle style="opacity:0.3;fill:none;stroke:#666666;stroke-width:0.32975" cx="265.94" cy="818.44" r="1.322"/>
+  <ellipse style="fill:#666666" cx="260.09" cy="812.5" rx=".608" ry=".625"/>
+  <ellipse style="fill:#666666" cx="260.03" cy="818.47" rx=".608" ry=".625"/>
+  <ellipse style="fill:#666666" cx="265.93" cy="812.44" rx=".608" ry=".625"/>
+  <ellipse style="fill:#666666" cx="265.93" cy="818.5" rx=".608" ry=".625"/>
+ </g>
+</svg>

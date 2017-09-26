@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <g transform="translate(-165,-981.36)">
+  <rect style="fill:none" width="16" height="16" x="165" y="981.36"/>
+  <path style="fill:#666666" d="M 165,986.36 C 165,986.36 168.58,992.36 173,992.36 177.42,992.36 181,986.36 181,986.36 H 179 C 179,986.36 176.87,990.36 173,990.36 169.13,990.36 167,986.36 167,986.36 Z"/>
+  <path style="fill:#3b3c39;stroke:#666666;stroke-linecap:round" d="M 167,988.36 166,989.36"/>
+  <path style="fill:#3b3c39;stroke:#666666;stroke-linecap:round" d="M 179,988.36 180,989.36"/>
+  <path style="fill:#3b3c39;stroke:#666666;stroke-linecap:round" d="M 169,989.36 167,991.36"/>
+  <path style="fill:#3b3c39;stroke:#666666;stroke-linecap:round" d="M 170.37,990.8 169,993.17"/>
+  <path style="fill:#3b3c39;stroke:#666666;stroke-linecap:round" d="M 172.44,991.3 171.75,994.3"/>
+  <path style="fill:#3b3c39;stroke:#666666;stroke-linecap:round" d="M 177.44,989.36 179,991.36"/>
+  <path style="fill:#3b3c39;stroke:#666666;stroke-linecap:round" d="M 176.06,990.8 177.39,992.95"/>
+  <path style="fill:#3b3c39;stroke:#666666;stroke-linecap:round" d="M 174,991.3 174.86,994.3"/>
+ </g>
+</svg>

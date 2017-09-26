@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <g transform="translate(-528,-558.36)">
+  <rect style="fill:none" width="16" height="16" x="528" y="558.36"/>
+  <rect style="fill:#666666;fill-rule:evenodd" width="4" height="4" x="530" y="570.36"/>
+  <path style="fill:#666666" d="M 535,563.36 H 537 L 537.01,566.37 H 539.01 L 536.01,569.36 533.01,566.37 H 535.01 Z"/>
+  <rect style="fill:#666666;fill-rule:evenodd" width="4" height="4" x="538" y="570.36"/>
+  <rect style="fill:#666666" width="3" height="1" x="541" y="559.36"/>
+  <rect style="fill:#666666" width="3" height="1" x="528" y="559.36"/>
+  <rect style="fill:#666666;fill-rule:evenodd" width="4" height="4" x="530" y="558.36"/>
+  <rect style="fill:#666666;fill-rule:evenodd" width="4" height="4" x="538" y="558.36"/>
+  <rect style="fill:#666666" width="16" height="1" x="528" y="571.36"/>
+ </g>
+</svg>

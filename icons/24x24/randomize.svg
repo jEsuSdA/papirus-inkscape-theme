@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <g transform="translate(-408,-677.36)">
+  <rect style="fill:none" width="24" height="24" x="408" y="677.36"/>
+  <path style="fill:none;stroke:#666666;stroke-linejoin:round" d="M 409,682.61 V 695.11 L 420,700.61 431,695.11 V 682.61 L 420,687.11 Z"/>
+  <path style="fill:none;stroke:#666666;stroke-width:1px;stroke-linejoin:round" d="M 420,678.11 431,682.61 420,687.11 409,682.61 Z"/>
+  <path style="fill:none;stroke:#666666;stroke-width:1px" d="M 420,687.11 V 700.53"/>
+  <ellipse style="fill:#666666" cx="682.6" cy="-416.96" rx="1.272" ry="1.98" transform="rotate(90)"/>
+  <ellipse style="fill:#666666" cx="682.62" cy="-423.05" rx="1.272" ry="1.98" transform="rotate(90)"/>
+  <ellipse style="fill:#666666" cx="488.59" cy="648.33" rx="1.601" ry="1.802" transform="rotate(5.3645)"/>
+  <ellipse style="fill:#666666" cx="409.59" cy="689.33" rx="1.327" ry="1.372" transform="matrix(0.99999,0.00491,0.00706,0.99998,0,0)"/>
+  <ellipse style="fill:#666666" cx="412.05" cy="693.43" rx="1.414" ry="1.405" transform="matrix(0.99999,0.00472,0.00734,0.99997,0,0)"/>
+  <ellipse style="fill:#666666" cx="407.04" cy="685.49" rx="1.367" ry="1.379" transform="matrix(0.99999,0.00479,0.00723,0.99997,0,0)"/>
+ </g>
+</svg>

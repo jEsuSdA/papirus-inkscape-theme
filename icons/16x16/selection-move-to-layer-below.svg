@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16.012" version="1.1" viewBox="0 0 16 16.01">
+ <g transform="translate(-105,-627.35)">
+  <rect style="fill:none" width="16" height="16" x="105" y="627.35" rx="0" ry="1"/>
+  <path style="fill:#666666" d="M 107,643.36 109,640.36 H 119 L 117,643.36 Z"/>
+  <path style="fill:#666666" d="M 112,634.36 H 114 V 636.36 H 116 L 113,639.35 110,636.36 H 112 Z"/>
+  <rect style="fill:#666666" width="1" height="1" x="105" y="-635.35" ry="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="107" y="-635.35" ry="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="109" y="-635.35" ry="0" transform="scale(1,-1)"/>
+  <path style="fill:#666666" d="M 107,633.36 C 107,633.36 107,633.36 109,630.36 H 118 L 116,633.36 Z"/>
+  <rect style="fill:#666666" width="1" height="1" x="117" y="-635.35" ry="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="119" y="-635.35" ry="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="105" y="-629.35" ry="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="107" y="-629.35" ry="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="105" y="-633.35" ry="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="105" y="-631.35" ry="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="109" y="-629.35" ry="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="111" y="-629.35" ry="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="113" y="-629.35" ry="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="115" y="-629.35" ry="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="117" y="-629.35" ry="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="119" y="-629.35" ry="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="119" y="-631.35" ry="0" transform="scale(1,-1)"/>
+  <rect style="fill:#666666" width="1" height="1" x="119" y="-633.35" ry="0" transform="scale(1,-1)"/>
+ </g>
+</svg>

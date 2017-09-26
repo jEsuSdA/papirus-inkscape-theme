@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <g transform="translate(-318,-774.35)">
+  <path style="fill:#666666;fill-rule:evenodd" d="M 327.54,784.05 326.48,787.07 C 326.2,787.89 327.35,788.33 327.64,787.48 L 328.81,784.48 Z"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 326.87,779.99 327.4,780.78 331.35,782.4 332.39,782.06 333.72,778.37 C 332.05,778.37 333.38,774.35 329.05,774.35 Z"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 327.33,781.73 326.87,783.07 330.2,784.35 330.67,783.07 Z"/>
+  <rect style="fill:none" width="16" height="15.994" x="318" y="774.36"/>
+  <path style="fill:none;stroke:#666666;stroke-width:0.97609" d="M 320.4,786.87 C 326.77,785.69 319.49,775.84 319.49,775.84 H 325.51"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 319,786.36 H 322 V 789.36 H 319 Z"/>
+  <path style="fill:#666666;fill-rule:evenodd" d="M 324.55,789.1 V 789.1"/>
+  <path style="fill:none;stroke:#666666;stroke-width:0.9398" d="M 319.47,787.78 H 324.55"/>
+  <rect style="fill:#666666" width="3" height="2.996" x="318" y="774.36"/>
+ </g>
+</svg>
