@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+  xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  width="16"
+  height="16"
+  id="svg15638"
+  version="1.1"
+  inkscape:version="0.92.2 (unknown)"
+  sodipodi:docname="object-rotate-left.svg"
+  viewBox="0 0 16 16">
+ <title
+   id="title9623">Inkscape Icon Theme</title>
+ <defs
+   id="defs15640">
+  <!--<inkscape:path-effect effect="spiro" id="path-effect36695" is_visible="true" />-->
+  <linearGradient
+    id="linearGradient19282"
+    osb:paint="solid"
+    gradientTransform="matrix(0,0,0,0,-1.1046e8,-6315000)">
+   <stop
+     style="stop-color:#666666;stop-opacity:1"
+     offset="0"
+     id="stop19284" />
+  </linearGradient>
+ </defs>
+ <sodipodi:namedview
+   id="base"
+   pagecolor="#f2f2f2"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:zoom="0.76028"
+   inkscape:cx="225.9"
+   inkscape:cy="-59.02"
+   inkscape:document-units="px"
+   inkscape:current-layer="layer1"
+   showgrid="false"
+   inkscape:window-width="1280"
+   inkscape:window-height="960"
+   inkscape:window-x="0"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:snap-bbox="true"
+   inkscape:bbox-paths="false"
+   inkscape:bbox-nodes="true"
+   inkscape:snap-global="false"
+   showguides="false"
+   inkscape:guide-bbox="true"
+   inkscape:snap-nodes="false"
+   inkscape:snap-object-midpoints="false"
+   inkscape:snap-grids="true"
+   inkscape:snap-to-guides="true"
+   borderlayer="true"
+   inkscape:showpageshadow="false"
+   showborder="true"
+   inkscape:snap-bbox-edge-midpoints="false"
+   inkscape:object-nodes="true"
+   inkscape:snap-intersection-paths="false"
+   inkscape:snap-center="true">
+  <inkscape:grid
+    type="xygrid"
+    id="grid15646"
+    empspacing="5"
+    visible="true"
+    enabled="true"
+    snapvisiblegridlinesonly="true"
+    originx="-135"
+    originy="-429" />
+ </sodipodi:namedview>
+ <metadata
+   id="metadata15643">
+  <rdf:RDF>
+   <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+      rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title>Inkscape Icon Theme</dc:title>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Barbara Muraus</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>Jakub Steiner, Josh Andler</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g
+   inkscape:label="Layer 1"
+   inkscape:groupmode="layer"
+   id="layer1"
+   transform="translate(-135,-727.36)">
+  <rect
+    y="727.36"
+    x="-151"
+    height="16"
+    width="16"
+    id="rect18425"
+    style="fill:none"
+    transform="scale(-1,1)" />
+  <path
+    style="fill:url(#linearGradient19282)"
+    d="M 139,737.36 136,734.36 H 142 Z"
+    id="path18427"
+    inkscape:connector-curvature="0"
+    sodipodi:nodetypes="cccc" />
+  <path
+    inkscape:connector-curvature="0"
+    id="path18429"
+    d="M 144.5,727.36 C 144.67,727.36 144.83,727.38 145,727.39 V 729.42 C 144.83,729.4 144.67,729.36 144.5,729.36 142.01,729.36 140,731.38 140,733.86 140,734.03 140.04,734.19 140.06,734.36 H 138.03 C 138.02,734.19 138,734.03 138,733.86 138,730.27 140.91,727.36 144.5,727.36 Z"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    transform="scale(-1,1)"
+    y="727.36"
+    x="-151"
+    height="10"
+    width="5"
+    id="rect18431"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect18433"
+    width="5"
+    height="10"
+    x="738.36"
+    y="135"
+    transform="matrix(0,1,1,0,0,0)" />
+ </g>
+</svg>

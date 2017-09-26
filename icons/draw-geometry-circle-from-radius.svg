@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+  xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  width="16"
+  height="16"
+  id="svg15638"
+  version="1.1"
+  inkscape:version="0.92.2 (unknown)"
+  sodipodi:docname="draw-geometry-circle-from-radius.svg"
+  viewBox="0 0 16 16">
+ <title
+   id="title9623">Inkscape Icon Theme</title>
+ <defs
+   id="defs15640">
+  <!--<inkscape:path-effect effect="spiro" id="path-effect36695" is_visible="true" />-->
+  <linearGradient
+    id="linearGradient19282"
+    osb:paint="solid"
+    gradientTransform="matrix(0,0,0,0,-1.1046e8,-6316300)">
+   <stop
+     style="stop-color:#666666;stop-opacity:1"
+     offset="0"
+     id="stop19284" />
+  </linearGradient>
+ </defs>
+ <sodipodi:namedview
+   id="base"
+   pagecolor="#f2f2f2"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:zoom="0.76028"
+   inkscape:cx="-198.1"
+   inkscape:cy="-197.02"
+   inkscape:document-units="px"
+   inkscape:current-layer="layer1"
+   showgrid="false"
+   inkscape:window-width="1280"
+   inkscape:window-height="960"
+   inkscape:window-x="0"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:snap-bbox="true"
+   inkscape:bbox-paths="false"
+   inkscape:bbox-nodes="true"
+   inkscape:snap-global="false"
+   showguides="false"
+   inkscape:guide-bbox="true"
+   inkscape:snap-nodes="false"
+   inkscape:snap-object-midpoints="false"
+   inkscape:snap-grids="true"
+   inkscape:snap-to-guides="true"
+   borderlayer="true"
+   inkscape:showpageshadow="false"
+   showborder="true"
+   inkscape:snap-bbox-edge-midpoints="false"
+   inkscape:object-nodes="true"
+   inkscape:snap-intersection-paths="false"
+   inkscape:snap-center="true">
+  <inkscape:grid
+    type="xygrid"
+    id="grid15646"
+    empspacing="5"
+    visible="true"
+    enabled="true"
+    snapvisiblegridlinesonly="true"
+    originx="-559"
+    originy="-567" />
+ </sodipodi:namedview>
+ <metadata
+   id="metadata15643">
+  <rdf:RDF>
+   <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+      rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title>Inkscape Icon Theme</dc:title>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Barbara Muraus</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>Jakub Steiner, Josh Andler</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g
+   inkscape:label="Layer 1"
+   inkscape:groupmode="layer"
+   id="layer1"
+   transform="translate(-559,-589.36)">
+  <rect
+    y="589.36"
+    x="559"
+    height="16"
+    width="16"
+    id="rect25622"
+    style="fill:none" />
+  <path
+    id="path25620"
+    d="M 573.48,597.36 C 573.48,598.21 573.31,599.06 572.99,599.84 572.66,600.62 572.18,601.34 571.57,601.94 570.97,602.54 570.25,603.02 569.46,603.34 568.67,603.67 567.82,603.83 566.97,603.83 566.12,603.83 565.26,603.66 564.48,603.34 563.69,603.02 562.97,602.54 562.37,601.94 561.76,601.34 561.28,600.62 560.96,599.84 560.63,599.06 560.46,598.21 560.46,597.36 560.46,596.52 560.63,595.67 560.96,594.89 561.28,594.1 561.76,593.39 562.37,592.79 562.97,592.19 563.69,591.71 564.48,591.38 565.26,591.06 566.12,590.89 566.97,590.89 567.82,590.89 568.67,591.06 569.46,591.38 570.25,591.71 570.97,592.19 571.57,592.79 572.18,593.39 572.66,594.1 572.99,594.89 573.31,595.67 573.48,596.51 573.48,597.36"
+    style="fill:none;stroke:url(#linearGradient19282);stroke-width:1.05744;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4.27;stroke-dashoffset:23.2"
+    inkscape:connector-curvature="0" />
+  <rect
+    y="595.36"
+    x="565"
+    height="4"
+    width="4"
+    id="rect25624"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    y="590.36"
+    x="570"
+    height="4"
+    width="4"
+    id="rect25628"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect25635"
+    width="1.0353"
+    height="7.243"
+    x="823.45"
+    y="-14.467"
+    transform="matrix(0.68252,0.73087,-0.68989,0.72391,0,0)" />
+ </g>
+</svg>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+  xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  width="16"
+  height="16"
+  id="svg15638"
+  version="1.1"
+  inkscape:version="0.92.2 (unknown)"
+  sodipodi:docname="draw-eraser-16px.svg"
+  viewBox="0 0 16 16">
+ <title
+   id="title9623">Inkscape Icon Theme</title>
+ <defs
+   id="defs15640">
+  <!--<inkscape:path-effect effect="spiro" id="path-effect36695" is_visible="true" />-->
+  <linearGradient
+    id="linearGradient19282"
+    osb:paint="solid"
+    gradientTransform="matrix(0,0,0,0,-1.1046e8,-6313100)">
+   <stop
+     style="stop-color:#666666;stop-opacity:1"
+     offset="0"
+     id="stop19284" />
+  </linearGradient>
+ </defs>
+ <sodipodi:namedview
+   id="base"
+   pagecolor="#f2f2f2"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:zoom="0.76028"
+   inkscape:cx="43.9"
+   inkscape:cy="204.98"
+   inkscape:document-units="px"
+   inkscape:current-layer="layer1"
+   showgrid="false"
+   inkscape:window-width="1280"
+   inkscape:window-height="960"
+   inkscape:window-x="0"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:snap-bbox="true"
+   inkscape:bbox-paths="false"
+   inkscape:bbox-nodes="true"
+   inkscape:snap-global="false"
+   showguides="false"
+   inkscape:guide-bbox="true"
+   inkscape:snap-nodes="false"
+   inkscape:snap-object-midpoints="false"
+   inkscape:snap-grids="true"
+   inkscape:snap-to-guides="true"
+   borderlayer="true"
+   inkscape:showpageshadow="false"
+   showborder="true"
+   inkscape:snap-bbox-edge-midpoints="false"
+   inkscape:object-nodes="true"
+   inkscape:snap-intersection-paths="false"
+   inkscape:snap-center="true">
+  <inkscape:grid
+    type="xygrid"
+    id="grid15646"
+    empspacing="5"
+    visible="true"
+    enabled="true"
+    snapvisiblegridlinesonly="true"
+    originx="-317"
+    originy="-165" />
+ </sodipodi:namedview>
+ <metadata
+   id="metadata15643">
+  <rdf:RDF>
+   <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+      rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title>Inkscape Icon Theme</dc:title>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Barbara Muraus</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>Jakub Steiner, Josh Andler</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g
+   inkscape:label="Layer 1"
+   inkscape:groupmode="layer"
+   id="layer1"
+   transform="translate(-317,-991.36)">
+  <rect
+    style="fill:none"
+    id="rect34148"
+    width="16"
+    height="16"
+    x="317"
+    y="991.36" />
+  <path
+    id="path4066"
+    d="M 328.16,992.36 C 328.08,992.38 328,992.43 327.94,992.48 L 323.66,996.48 327.69,1000.8 331.84,996.95 C 332.08,996.73 332.02,996.27 331.72,995.92 L 328.94,992.7 C 328.71,992.44 328.39,992.31 328.16,992.36 Z"
+    style="fill:url(#linearGradient19282)"
+    inkscape:connector-curvature="0" />
+  <path
+    id="rect34152"
+    d="M 322.5,997.58 320.16,999.77 C 319.92,999.99 319.95,1000.5 320.25,1000.8 L 323.06,1004 C 323.37,1004.4 323.79,1004.5 324.03,1004.2 L 326.5,1001.9 Z"
+    style="fill:url(#linearGradient19282)"
+    inkscape:connector-curvature="0" />
+  <path
+    style="fill:url(#linearGradient19282)"
+    d="M 325.7,1005.4 C 325.31,1005.4 325,1005.6 325,1005.9 325,1006.1 325.31,1006.4 325.7,1006.4 H 327.1 331.3 332 V 1005.9 1005.4 H 331.3 327.1 Z"
+    id="rect34161"
+    inkscape:connector-curvature="0" />
+  <path
+    inkscape:connector-curvature="0"
+    id="path34166"
+    d="M 320.3,1005.4 C 320.69,1005.4 321,1005.6 321,1005.9 321,1006.1 320.69,1006.4 320.3,1006.4 318.2,1006.4 318.3,1006.4 318,1006.4 V 1005.9 1005.4 C 318,1005.4 318.2,1005.4 320.3,1005.4 Z"
+    style="fill:url(#linearGradient19282)"
+    sodipodi:nodetypes="csccccc" />
+ </g>
+</svg>

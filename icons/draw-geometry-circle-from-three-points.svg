@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+  xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  width="16"
+  height="16"
+  id="svg15638"
+  version="1.1"
+  inkscape:version="0.92.2 (unknown)"
+  sodipodi:docname="draw-geometry-circle-from-three-points.svg"
+  viewBox="0 0 16 16">
+ <title
+   id="title9623">Inkscape Icon Theme</title>
+ <defs
+   id="defs15640">
+  <!--<inkscape:path-effect effect="spiro" id="path-effect36695" is_visible="true" />-->
+  <linearGradient
+    id="linearGradient19282"
+    osb:paint="solid"
+    gradientTransform="matrix(0,0,0,0,-1.1046e8,-6316300)">
+   <stop
+     style="stop-color:#666666;stop-opacity:1"
+     offset="0"
+     id="stop19284" />
+  </linearGradient>
+ </defs>
+ <sodipodi:namedview
+   id="base"
+   pagecolor="#f2f2f2"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:zoom="0.76028"
+   inkscape:cx="-167.1"
+   inkscape:cy="-197.02"
+   inkscape:document-units="px"
+   inkscape:current-layer="layer1"
+   showgrid="false"
+   inkscape:window-width="1280"
+   inkscape:window-height="960"
+   inkscape:window-x="0"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:snap-bbox="true"
+   inkscape:bbox-paths="false"
+   inkscape:bbox-nodes="true"
+   inkscape:snap-global="false"
+   showguides="false"
+   inkscape:guide-bbox="true"
+   inkscape:snap-nodes="false"
+   inkscape:snap-object-midpoints="false"
+   inkscape:snap-grids="true"
+   inkscape:snap-to-guides="true"
+   borderlayer="true"
+   inkscape:showpageshadow="false"
+   showborder="true"
+   inkscape:snap-bbox-edge-midpoints="false"
+   inkscape:object-nodes="true"
+   inkscape:snap-intersection-paths="false"
+   inkscape:snap-center="true">
+  <inkscape:grid
+    type="xygrid"
+    id="grid15646"
+    empspacing="5"
+    visible="true"
+    enabled="true"
+    snapvisiblegridlinesonly="true"
+    originx="-528"
+    originy="-567" />
+ </sodipodi:namedview>
+ <metadata
+   id="metadata15643">
+  <rdf:RDF>
+   <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+      rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title>Inkscape Icon Theme</dc:title>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Barbara Muraus</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>Jakub Steiner, Josh Andler</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g
+   inkscape:label="Layer 1"
+   inkscape:groupmode="layer"
+   id="layer1"
+   transform="translate(-528,-589.36)">
+  <rect
+    style="fill:none"
+    id="rect25473"
+    width="16"
+    height="16"
+    x="528"
+    y="589.36" />
+  <path
+    inkscape:connector-curvature="0"
+    style="fill:none;stroke:url(#linearGradient19282);stroke-width:1.05744;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4.27;stroke-dashoffset:23.2"
+    d="M 542.48,597.36 C 542.48,598.21 542.31,599.06 541.99,599.84 541.66,600.62 541.18,601.34 540.57,601.94 539.97,602.54 539.25,603.02 538.46,603.34 537.67,603.67 536.82,603.83 535.97,603.83 535.12,603.83 534.26,603.66 533.48,603.34 532.69,603.02 531.97,602.54 531.37,601.94 530.76,601.34 530.28,600.62 529.96,599.84 529.63,599.06 529.46,598.21 529.46,597.36 529.46,596.52 529.63,595.67 529.96,594.89 530.28,594.1 530.76,593.39 531.37,592.79 531.97,592.19 532.69,591.71 533.48,591.38 534.26,591.06 535.12,590.89 535.97,590.89 536.82,590.89 537.67,591.06 538.46,591.38 539.25,591.71 539.97,592.19 540.57,592.79 541.18,593.39 541.66,594.1 541.99,594.89 542.31,595.67 542.48,596.51 542.48,597.36"
+    id="path2526" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect25475"
+    width="4"
+    height="4"
+    x="534"
+    y="589.36" />
+  <rect
+    y="595.36"
+    x="528"
+    height="4"
+    width="4"
+    id="rect25477"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect25479"
+    width="4"
+    height="4"
+    x="540"
+    y="595.36" />
+ </g>
+</svg>

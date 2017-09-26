@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+  xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  width="20"
+  height="20"
+  id="svg15638"
+  version="1.1"
+  inkscape:version="0.92.2 (unknown)"
+  sodipodi:docname="paint-gradient-linear.svg"
+  viewBox="0 0 20 20">
+ <title
+   id="title9623">Inkscape Icon Theme</title>
+ <defs
+   id="defs15640">
+  <!--<inkscape:path-effect effect="spiro" id="path-effect36695" is_visible="true" />-->
+  <linearGradient
+    id="linearGradient19282"
+    osb:paint="solid"
+    gradientTransform="matrix(0,0,0,0,-1.1046e8,-6315300)">
+   <stop
+     style="stop-color:#666666;stop-opacity:1"
+     offset="0"
+     id="stop19284" />
+  </linearGradient>
+ </defs>
+ <sodipodi:namedview
+   id="base"
+   pagecolor="#f2f2f2"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:zoom="0.76028"
+   inkscape:cx="-752.1"
+   inkscape:cy="146.98"
+   inkscape:document-units="px"
+   inkscape:current-layer="layer1"
+   showgrid="false"
+   inkscape:window-width="1280"
+   inkscape:window-height="960"
+   inkscape:window-x="0"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:snap-bbox="true"
+   inkscape:bbox-paths="false"
+   inkscape:bbox-nodes="true"
+   inkscape:snap-global="false"
+   showguides="false"
+   inkscape:guide-bbox="true"
+   inkscape:snap-nodes="false"
+   inkscape:snap-object-midpoints="false"
+   inkscape:snap-grids="true"
+   inkscape:snap-to-guides="true"
+   borderlayer="true"
+   inkscape:showpageshadow="false"
+   showborder="true"
+   inkscape:snap-bbox-edge-midpoints="false"
+   inkscape:object-nodes="true"
+   inkscape:snap-intersection-paths="false"
+   inkscape:snap-center="true">
+  <inkscape:grid
+    type="xygrid"
+    id="grid15646"
+    empspacing="5"
+    visible="true"
+    enabled="true"
+    snapvisiblegridlinesonly="true"
+    originx="-1113"
+    originy="-223" />
+ </sodipodi:namedview>
+ <metadata
+   id="metadata15643">
+  <rdf:RDF>
+   <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+      rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title>Inkscape Icon Theme</dc:title>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Barbara Muraus</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>Jakub Steiner, Josh Andler</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g
+   inkscape:label="Layer 1"
+   inkscape:groupmode="layer"
+   id="layer1"
+   transform="translate(-1113,-929.36)">
+  <rect
+    y="929.36"
+    x="1113"
+    height="20"
+    width="20"
+    id="rect20694"
+    style="fill:none" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20698"
+    width="5"
+    height="20"
+    x="1113"
+    y="929.36" />
+  <path
+    inkscape:connector-curvature="0"
+    id="rect20700"
+    d="M 1118,929.36 V 930.36 H 1119 V 929.36 Z M 1120,929.36 V 930.36 H 1121 V 929.36 Z M 1118,931.36 V 932.36 H 1119 V 931.36 Z M 1119,932.36 V 933.36 H 1120 V 932.36 Z M 1120,932.36 H 1121 V 931.36 H 1120 Z M 1122,933.36 V 934.36 H 1123 V 933.36 Z"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    y="930.36"
+    x="1119"
+    height="1"
+    width="1"
+    id="rect20704"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    y="933.36"
+    x="1118"
+    height="1"
+    width="1"
+    id="rect20712"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20714"
+    width="1"
+    height="1"
+    x="1120"
+    y="933.36" />
+  <rect
+    y="934.36"
+    x="1119"
+    height="1"
+    width="1"
+    id="rect20716"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20718"
+    width="1"
+    height="1"
+    x="1118"
+    y="935.36" />
+  <rect
+    y="935.36"
+    x="1120"
+    height="1"
+    width="1"
+    id="rect20720"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20722"
+    width="1"
+    height="1"
+    x="1119"
+    y="936.36" />
+  <rect
+    y="937.36"
+    x="1118"
+    height="1"
+    width="1"
+    id="rect20724"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20726"
+    width="1"
+    height="1"
+    x="1120"
+    y="937.36" />
+  <rect
+    y="938.36"
+    x="1119"
+    height="1"
+    width="1"
+    id="rect20728"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20730"
+    width="1"
+    height="1"
+    x="1118"
+    y="939.36" />
+  <rect
+    y="939.36"
+    x="1120"
+    height="1"
+    width="1"
+    id="rect20732"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20734"
+    width="1"
+    height="1"
+    x="1119"
+    y="940.36" />
+  <rect
+    y="941.36"
+    x="1118"
+    height="1"
+    width="1"
+    id="rect20736"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20738"
+    width="1"
+    height="1"
+    x="1120"
+    y="941.36" />
+  <rect
+    y="942.36"
+    x="1119"
+    height="1"
+    width="1"
+    id="rect20740"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20742"
+    width="1"
+    height="1"
+    x="1118"
+    y="943.36" />
+  <rect
+    y="943.36"
+    x="1120"
+    height="1"
+    width="1"
+    id="rect20744"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20746"
+    width="1"
+    height="1"
+    x="1119"
+    y="944.36" />
+  <rect
+    y="945.36"
+    x="1118"
+    height="1"
+    width="1"
+    id="rect20748"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20750"
+    width="1"
+    height="1"
+    x="1120"
+    y="945.36" />
+  <rect
+    y="946.36"
+    x="1119"
+    height="1"
+    width="1"
+    id="rect20752"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20754"
+    width="1"
+    height="1"
+    x="1118"
+    y="947.36" />
+  <rect
+    y="947.36"
+    x="1120"
+    height="1"
+    width="1"
+    id="rect20756"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20758"
+    width="1"
+    height="1"
+    x="1121"
+    y="946.36" />
+  <rect
+    y="944.36"
+    x="1121"
+    height="1"
+    width="1"
+    id="rect20760"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20762"
+    width="1"
+    height="1"
+    x="1121"
+    y="942.36" />
+  <rect
+    y="940.36"
+    x="1121"
+    height="1"
+    width="1"
+    id="rect20764"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20766"
+    width="1"
+    height="1"
+    x="1121"
+    y="938.36" />
+  <rect
+    y="936.36"
+    x="1121"
+    height="1"
+    width="1"
+    id="rect20768"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20770"
+    width="1"
+    height="1"
+    x="1121"
+    y="934.36" />
+  <rect
+    y="932.36"
+    x="1121"
+    height="1"
+    width="1"
+    id="rect20772"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20774"
+    width="1"
+    height="1"
+    x="1121"
+    y="930.36" />
+  <rect
+    y="929.36"
+    x="1122"
+    height="1"
+    width="1"
+    id="rect20776"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20778"
+    width="1"
+    height="1"
+    x="1122"
+    y="931.36" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20782"
+    width="1"
+    height="1"
+    x="1122"
+    y="935.36" />
+  <rect
+    y="937.36"
+    x="1122"
+    height="1"
+    width="1"
+    id="rect20784"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20786"
+    width="1"
+    height="1"
+    x="1122"
+    y="939.36" />
+  <rect
+    y="941.36"
+    x="1122"
+    height="1"
+    width="1"
+    id="rect20788"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20790"
+    width="1"
+    height="1"
+    x="1122"
+    y="943.36" />
+  <rect
+    y="945.36"
+    x="1122"
+    height="1"
+    width="1"
+    id="rect20792"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20794"
+    width="1"
+    height="1"
+    x="1122"
+    y="947.36" />
+  <rect
+    y="948.36"
+    x="1121"
+    height="1"
+    width="1"
+    id="rect20796"
+    style="fill:url(#linearGradient19282)" />
+  <rect
+    style="fill:url(#linearGradient19282)"
+    id="rect20798"
+    width="1"
+    height="1"
+    x="1119"
+    y="948.36" />
+  <rect
+    y="929.36"
+    x="1123"
+    height="20"
+    width="5"
+    id="rect20802"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20804"
+    width="1"
+    height="1"
+    x="1129"
+    y="929.36" />
+  <rect
+    y="929.36"
+    x="1131"
+    height="1"
+    width="1"
+    id="rect20806"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20808"
+    width="1"
+    height="1"
+    x="1130"
+    y="930.36" />
+  <rect
+    y="930.36"
+    x="1132"
+    height="1"
+    width="1"
+    id="rect20810"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20812"
+    width="1"
+    height="1"
+    x="1131"
+    y="931.36" />
+  <rect
+    y="931.36"
+    x="1129"
+    height="1"
+    width="1"
+    id="rect20814"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20816"
+    width="1"
+    height="1"
+    x="1130"
+    y="932.36" />
+  <rect
+    y="932.36"
+    x="1132"
+    height="1"
+    width="1"
+    id="rect20818"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20820"
+    width="1"
+    height="1"
+    x="1131"
+    y="933.36" />
+  <rect
+    y="933.36"
+    x="1129"
+    height="1"
+    width="1"
+    id="rect20822"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20824"
+    width="1"
+    height="1"
+    x="1130"
+    y="934.36" />
+  <rect
+    y="934.36"
+    x="1132"
+    height="1"
+    width="1"
+    id="rect20826"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20828"
+    width="1"
+    height="1"
+    x="1131"
+    y="935.36" />
+  <rect
+    y="935.36"
+    x="1129"
+    height="1"
+    width="1"
+    id="rect20830"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20832"
+    width="1"
+    height="1"
+    x="1130"
+    y="936.36" />
+  <rect
+    y="936.36"
+    x="1132"
+    height="1"
+    width="1"
+    id="rect20834"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20836"
+    width="1"
+    height="1"
+    x="1131"
+    y="937.36" />
+  <rect
+    y="937.36"
+    x="1129"
+    height="1"
+    width="1"
+    id="rect20838"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20840"
+    width="1"
+    height="1"
+    x="1132"
+    y="938.36" />
+  <rect
+    y="938.36"
+    x="1130"
+    height="1"
+    width="1"
+    id="rect20842"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20844"
+    width="1"
+    height="1"
+    x="1129"
+    y="939.36" />
+  <rect
+    y="939.36"
+    x="1131"
+    height="1"
+    width="1"
+    id="rect20846"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20848"
+    width="1"
+    height="1"
+    x="1132"
+    y="940.36" />
+  <rect
+    y="940.36"
+    x="1130"
+    height="1"
+    width="1"
+    id="rect20850"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20852"
+    width="1"
+    height="1"
+    x="1129"
+    y="941.36" />
+  <rect
+    y="941.36"
+    x="1131"
+    height="1"
+    width="1"
+    id="rect20854"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20856"
+    width="1"
+    height="1"
+    x="1132"
+    y="942.36" />
+  <rect
+    y="942.36"
+    x="1130"
+    height="1"
+    width="1"
+    id="rect20858"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20860"
+    width="1"
+    height="1"
+    x="1129"
+    y="943.36" />
+  <rect
+    y="943.36"
+    x="1131"
+    height="1"
+    width="1"
+    id="rect20862"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20864"
+    width="1"
+    height="1"
+    x="1132"
+    y="944.36" />
+  <rect
+    y="944.36"
+    x="1130"
+    height="1"
+    width="1"
+    id="rect20866"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20868"
+    width="1"
+    height="1"
+    x="1129"
+    y="945.36" />
+  <rect
+    y="945.36"
+    x="1131"
+    height="1"
+    width="1"
+    id="rect20870"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20872"
+    width="1"
+    height="1"
+    x="1132"
+    y="946.36" />
+  <rect
+    y="946.36"
+    x="1130"
+    height="1"
+    width="1"
+    id="rect20874"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20876"
+    width="1"
+    height="1"
+    x="1129"
+    y="947.36" />
+  <rect
+    y="947.36"
+    x="1131"
+    height="1"
+    width="1"
+    id="rect20878"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20880"
+    width="1"
+    height="1"
+    x="1132"
+    y="948.36" />
+  <rect
+    y="948.36"
+    x="1130"
+    height="1"
+    width="1"
+    id="rect20882"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    y="930.36"
+    x="1128"
+    height="1"
+    width="1"
+    id="rect20886"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20888"
+    width="1"
+    height="1"
+    x="1128"
+    y="932.36" />
+  <rect
+    y="934.36"
+    x="1128"
+    height="1"
+    width="1"
+    id="rect20890"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20892"
+    width="1"
+    height="1"
+    x="1128"
+    y="936.36" />
+  <rect
+    y="938.36"
+    x="1128"
+    height="1"
+    width="1"
+    id="rect20894"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20896"
+    width="1"
+    height="1"
+    x="1128"
+    y="940.36" />
+  <rect
+    y="942.36"
+    x="1128"
+    height="1"
+    width="1"
+    id="rect20898"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20900"
+    width="1"
+    height="1"
+    x="1128"
+    y="944.36" />
+  <rect
+    y="946.36"
+    x="1128"
+    height="1"
+    width="1"
+    id="rect20902"
+    style="opacity:0.3;fill:url(#linearGradient19282)" />
+  <rect
+    style="opacity:0.3;fill:url(#linearGradient19282)"
+    id="rect20904"
+    width="1"
+    height="1"
+    x="1128"
+    y="948.36" />
+ </g>
+</svg>
