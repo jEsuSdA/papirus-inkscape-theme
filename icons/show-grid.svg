@@ -1,17 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <g transform="translate(-75,-727.36)">
-  <rect style="fill:none" width="16" height="16" x="75" y="727.36"/>
-  <rect style="fill:#666666" width="1" height="16" x="75" y="727.36"/>
-  <rect style="fill:#666666" width="16" height="1" x="75" y="727.36"/>
-  <rect style="fill:#666666" width="1" height="16" x="90" y="727.36"/>
-  <rect style="fill:#666666" width="16" height="1" x="75" y="742.36"/>
-  <rect style="fill:#666666" width="16" height="1" x="75" y="730.36"/>
-  <rect style="fill:#666666" width="16" height="1" x="75" y="733.36"/>
-  <rect style="fill:#666666" width="16" height="1" x="75" y="736.36"/>
-  <rect style="fill:#666666" width="16" height="1" x="75" y="739.36"/>
-  <rect style="fill:#666666" width="1" height="16" x="78" y="727.36"/>
-  <rect style="fill:#666666" width="1" height="16" x="81" y="727.36"/>
-  <rect style="fill:#666666" width="1" height="16" x="84" y="727.36"/>
-  <rect style="fill:#666666" width="1" height="16" x="87" y="727.36"/>
- </g>
+ <rect style="fill:none" width="16" height="16" x="0" y="0"/>
+ <rect style="fill:#666666" width="1" height="16" x="0" y="0"/>
+ <rect style="fill:#666666" width="16" height="1" x="0" y="0"/>
+ <rect style="fill:#666666" width="1" height="16" x="15" y="0"/>
+ <rect style="fill:#666666" width="16" height="1" x="0" y="15"/>
+ <rect style="fill:#666666" width="16" height="1" x="0" y="3"/>
+ <rect style="fill:#666666" width="16" height="1" x="0" y="6"/>
+ <rect style="fill:#666666" width="16" height="1" x="0" y="9"/>
+ <rect style="fill:#666666" width="16" height="1" x="0" y="12"/>
+ <rect style="fill:#666666" width="1" height="16" x="3" y="0"/>
+ <rect style="fill:#666666" width="1" height="16" x="6" y="0"/>
+ <rect style="fill:#666666" width="1" height="16" x="9" y="0"/>
+ <rect style="fill:#666666" width="1" height="16" x="12" y="0"/>
 </svg>
